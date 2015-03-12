@@ -1,4 +1,4 @@
-# Procalcitonin-guided-therapy-for-patients-with-severe-sepsis-and-septic-shock
+# Procalcitonin guided therapy for patients with severe sepsis and septic shock
 A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
@@ -15,7 +15,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-acute-myocardial-infarction/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Procalcitonin-guided-therapy-for-patients-with-severe-sepsis-and-septic-shock/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
