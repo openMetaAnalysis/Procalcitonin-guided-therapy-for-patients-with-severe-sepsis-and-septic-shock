@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
+<!-- start of a new study -->
+<study>
+<citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2010" pmid="20097417" trialregistration="" journal_abbrev="Lancet">Bouadma</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23418298" trialregistration="" journal_abbrev="BMJ Open">Annane</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med">Oliveira</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
+ <design>randomized controlled trial</design>
+ <patients total="__">
+ <description>sepsis or septic shock</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>procalcitonin-guided therapy
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='secondary'>Criteria used or how measured?</bullet>
+ </outcome>
+</study>
+<!-- Leave this bottom line -->
+</included>
