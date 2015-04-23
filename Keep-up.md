@@ -13,8 +13,8 @@ Receive notifications about possible studies when indexed at PubMed
 Search strategy is **Procalcitonin AND random* AND sepsis**:
 
 * [Search now and test strategy at PubMed](http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Procalcitonin%20AND%20random*%20AND%20sepsis)
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=Procalcitonin-sepsis) or [RSS](http://feeds.feedburner.com/Procalcitonin-sepsis)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=PubmedProcalcitonin-sepsis&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/PubmedProcalcitonin-sepsis)
 
-Receive notifications about PubMed citations when added to this review
+Receive notifications about PubMed citations when added to this review (not implemented)
 -------------------------
 * Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=openMetaAnalysis-ProcalcitoninForsepsis) or [RSS](http://paid.feed43.com/procalcitoninsepsis.xml)
