@@ -6,7 +6,7 @@ Receive notifications about possible studies when results posted at [ClinicalTri
 Search strategy is **Terms: Procalcitonin | Studies With Results | Condition: sepsis | updated in the last 14 days**:
 
 * [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=Procalcitonin+random*&rslt=With&cond=sepsis&sel_rss=mod14)
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicaltrialsgovHypertonicSalineBronchiolitisResultsBronchiolitisNewUpdates) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovHypertonicSalineBronchiolitisResultsBronchiolitisNewUpdates)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicaltrialsgovProcalcitoninSepsisNewUpdates&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovProcalcitoninSepsisNewUpdates)
 
 Receive notifications about possible studies when indexed at PubMed
 -------------------------
