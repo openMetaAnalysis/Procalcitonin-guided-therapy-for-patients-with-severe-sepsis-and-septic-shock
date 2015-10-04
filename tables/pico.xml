@@ -11,7 +11,7 @@
  <intervention>antibiotics were stopped when PCT levels had decreased 90% or
 more from the initial value (if clinicians agreed) but not before Day 3
 (if baseline PCT levels were,1 mg/L) or Day 5 (if baseline PCT levels
-were >1 mg/L). </intervention>
+were greater than 1 mg/L). </intervention>
  <comparison>usual care
  </comparison>
  <outcome>
@@ -31,8 +31,8 @@ superinfection</bullet>
 patients with severe sepsis</description>
  <bullet>Mean age 69.3 years</bullet>
  </patients>
- <intervention> PCT <1 ng/mL and clinical signs of infection improved: antibiotics discontinued
-PCT dropped to <35% of the initial concentration within 3 days and clinical signs of infection improved: antibiotics discontinued
+ <intervention> PCT less than 1 ng/mL and clinical signs of infection improved: antibiotics discontinued
+PCT dropped to less than 35% of the initial concentration within 3 days and clinical signs of infection improved: antibiotics discontinued
  </intervention>
  <comparison>usual care
  </comparison>
@@ -53,8 +53,8 @@ criteria</description>
  </patients>
  <intervention>
  Antibiotics discontinued, if clinical signs and symptoms of infection
-improved and PCT decreased to <1 ng/ml or the PCT value was
->1 ng/ml, but had dropped to 25 to 35% of the initial value over
+improved and PCT decreased to less than 1 ng/ml or the PCT value was
+ greated than 1 ng/ml, but had dropped to 25 to 35% of the initial value over
 three days. 
  </intervention>
  <comparison>standard regimen of antibiotics over 8 days
@@ -90,7 +90,7 @@ ventilation, defi ned as unassisted breathing (days 1–28);
 SOFA score (days 1, 7, 14, 21, and 28); length of stay in the
 intensive care unit and hospital; days of exposure to each
 antibiotic per 1000 inpatient days, defi ned as the number
-of days (>24 h) of continuous antibiotic treatment (days 1–28);
+of days (more than 24 h) of continuous antibiotic treatment (days 1–28);
 duration of antibiotic treatment according to infection
 site; and percentage of emerging multidrug-resistant
 bacteria isolated from specimens taken for routine
@@ -192,29 +192,6 @@ or 2) an absolute value of 0.5 ng/mL was reached
  <bullet type='secondary'> in-hospital mortality, ICU
 mortality, ICU length of stay, recurrence of the initial infection,
 analysis of the CRP levels along with the PCT protocol, and costs.</bullet>
- </outcome>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
- <design>randomized controlled trial</design>
- <patients total="394">
- <description>suspected bacterial infection/sepsis in ICU</description>
- <bullet>Mean age __ months</bullet>
- </patients>
- <intervention>PCT algorithm with a cut-off of 0.1 ng/ml
- <bullet>Amount?</bullet>
- <bullet>Frequency?</bullet>
- <bullet>Duration?</bullet>
- </intervention>
- <comparison>usual care
- </comparison>
- <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>time to antibiotic
-cessation at 28 days, hospital discharge, or death</bullet>
- <bullet type='secondary'> number of antibiotic daily defined doses (DDD) at Day 28,
-ICU and hospital length of stay, mortality and 90-day all-cause
-mortality</bullet>
  </outcome>
 </study>
 <!-- Leave this bottom line -->
