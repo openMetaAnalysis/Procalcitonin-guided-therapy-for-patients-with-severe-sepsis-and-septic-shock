@@ -4,59 +4,63 @@
 <study>
 <citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
+ <patients total="79">
+ <description>suspected severe sepsis or septic shock admitted to the ICU</description>
  <bullet>Mean age 25 months</bullet>
  </patients>
- <intervention>procalcitonin-guided therapy
- <bullet>Amountttt?</bullet>
- <bullet>Frequency?</bullet>
- <bullet>Duration?</bullet>
- </intervention>
+ <intervention>antibiotics were stopped when PCT levels had decreased 90% or
+more from the initial value (if clinicians agreed) but not before Day 3
+(if baseline PCT levels were,1 mg/L) or Day 5 (if baseline PCT levels
+were >1 mg/L). </intervention>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>duration of antibiotic treatment, antibiotic exposure days,
+ days alive without antibiotics</bullet>
+ <bullet type='secondary'>28-day mortality, in-hospital mortality,
+length of stay in the ICU and hospital, clinical cure, reoccurrence of the initial infection, and nosocomial
+superinfection</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
- <bullet>Mean age __ months</bullet>
+ <patients total="27">
+ <description>surgical intensive care
+patients with severe sepsis</description>
+ <bullet>Mean age 69.3 years</bullet>
  </patients>
- <intervention>procalcitonin-guided therapy
- <bullet>Amount?</bullet>
- <bullet>Frequency?</bullet>
- <bullet>Duration?</bullet>
+ <intervention> PCT <1 ng/mL and clinical signs of infection improved: antibiotics discontinued
+PCT dropped to <35% of the initial concentration within 3 days and clinical signs of infection improved: antibiotics discontinued
  </intervention>
  <comparison>usual care
  </comparison>
- <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <outcome> 
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>Length of antibiotic treatment (days)</bullet>
+ <bullet type='secondary'>cost of antibiotic treatment</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
+ <patients total="110">
+ <description> SICU patients with confirmed or highly suspected bacterial infections
+ and at least two concomitant systemic inflammatory response syndrome
+criteria</description>
  <bullet>Mean age __ months</bullet>
  </patients>
- <intervention>procalcitonin-guided therapy
- <bullet>Amount?</bullet>
- <bullet>Frequency?</bullet>
- <bullet>Duration?</bullet>
+ <intervention>
+ Antibiotics discontinued, if clinical signs and symptoms of infection
+improved and PCT decreased to <1 ng/ml or the PCT value was
+>1 ng/ml, but had dropped to 25 to 35% of the initial value over
+three days. 
  </intervention>
- <comparison>usual care
+ <comparison>standard regimen of antibiotics over 8 days
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>length of antibiotic treatment</bullet>
  <bullet type='secondary'>Criteria used or how measured?</bullet>
  </outcome>
 </study>
@@ -64,31 +68,44 @@
 <study>
 <citation year="2010" pmid="20097417" trialregistration="" journal_abbrev="Lancet">Bouadma</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
+ <patients total="621">
+ <description>critically ill patients with suspected bacterial infections in ICU</description>
  <bullet>Mean age __ months</bullet>
  </patients>
- <intervention>procalcitonin-guided therapy
- <bullet>Amount?</bullet>
- <bullet>Frequency?</bullet>
- <bullet>Duration?</bullet>
+ <intervention>predefined algorithms to guide
+physicians to start or discontinue antibiotics according to
+serum procalcitonin concentrations; discontinue
+antibiotics when procalcitonin concentration was less
+than 80% of the peak concentration or an absolute
+concentration of less than 0∙5 μg/L was reached.
  </intervention>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>mortality at days 28 and 60 (non-inferiority analysis),
+ and number of days without antibiotics by day 28 (superiority analysis)</bullet>
+ <bullet type='secondary'>percentage of patients with relapse or superinfection
+(days 1–28); number of days without mechanical
+ventilation, defi ned as unassisted breathing (days 1–28);
+SOFA score (days 1, 7, 14, 21, and 28); length of stay in the
+intensive care unit and hospital; days of exposure to each
+antibiotic per 1000 inpatient days, defi ned as the number
+of days (>24 h) of continuous antibiotic treatment (days 1–28);
+duration of antibiotic treatment according to infection
+site; and percentage of emerging multidrug-resistant
+bacteria isolated from specimens taken for routine
+microbiological assessments (days 1–28).</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2013" pmid="23418298" trialregistration="" journal_abbrev="BMJ Open">Annane</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
+ <patients total="62">
+ <description>non-microbiologically proven apparent severe sepsis in ICU</description>
  <bullet>Mean age __ months</bullet>
  </patients>
- <intervention>procalcitonin-guided therapy
+ <intervention> initiation and discontinuation of antibiotics guided by a PCT-based algorithm
  <bullet>Amount?</bullet>
  <bullet>Frequency?</bullet>
  <bullet>Duration?</bullet>
@@ -96,16 +113,23 @@
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>proportion of patients 
+ receiving antibiotics at day 5 postrandomisation</bullet>
+ <bullet type='secondary'>Secondary outcomes included death at day 5, at ICU
+discharge and at hospital discharge, the proportion of
+patients started on antibiotics postrandomisation, the
+duration of antibiotic exposure, the SOFA score at day 3
+and day 5, the proportion of patients with infection
+acquired between randomisation and day 3, day 5 and
+ICU discharge, and ICU and hospital length-of-stay.</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med">Oliveira</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
+ <patients total="94">
+ <description>suspected severe sepsis or septic shock in ICU</description>
  <bullet>Mean age __ months</bullet>
  </patients>
  <intervention>procalcitonin-guided therapy
@@ -113,22 +137,27 @@
  <bullet>Frequency?</bullet>
  <bullet>Duration?</bullet>
  </intervention>
- <comparison>usual care
+ <comparison>protocol based on the serum levels of CRP
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>duration of antibiotic therapy
+for the first episode of infection</bullet>
+ <bullet type='secondary'>1) total number of days on antibiotic therapy; 2)
+days off antibiotic therapy; 3) death from any cause during the
+28 days of follow-up in the hospital; 4) length of stay (LOS) in
+the ICU and LOS in the hospital; and 5) clinical cure, recurrent
+infection, and nosocomial infection.</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
+ <patients total="394">
+ <description>suspected bacterial infection/sepsis in ICU</description>
  <bullet>Mean age __ months</bullet>
  </patients>
- <intervention>procalcitonin-guided therapy
+ <intervention>PCT algorithm with a cut-off of 0.1 ng/ml
  <bullet>Amount?</bullet>
  <bullet>Frequency?</bullet>
  <bullet>Duration?</bullet>
@@ -136,8 +165,56 @@
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>time to antibiotic
+cessation at 28 days, hospital discharge, or death</bullet>
+ <bullet type='secondary'> number of antibiotic daily defined doses (DDD) at Day 28,
+ICU and hospital length of stay, mortality and 90-day all-cause
+mortality</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid=" 23711530" trialregistration="" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
+ <design>randomized controlled trial</design>
+ <patients total="81">
+ <description>microbiologically confirmed infections with
+sepsis, severe sepsis, and septic shock in ICU</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>PCT protocol: encourage the physician to discontinue the
+antibiotics when: 1) PCT dropped more than 90% from the peak level
+or 2) an absolute value of 0.5 ng/mL was reached
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>duration of antibiotic therapy</bullet>
+ <bullet type='secondary'> in-hospital mortality, ICU
+mortality, ICU length of stay, recurrence of the initial infection,
+analysis of the CRP levels along with the PCT protocol, and costs.</bullet>
+ </outcome>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
+ <design>randomized controlled trial</design>
+ <patients total="394">
+ <description>suspected bacterial infection/sepsis in ICU</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>PCT algorithm with a cut-off of 0.1 ng/ml
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>time to antibiotic
+cessation at 28 days, hospital discharge, or death</bullet>
+ <bullet type='secondary'> number of antibiotic daily defined doses (DDD) at Day 28,
+ICU and hospital length of stay, mortality and 90-day all-cause
+mortality</bullet>
  </outcome>
 </study>
 <!-- Leave this bottom line -->
