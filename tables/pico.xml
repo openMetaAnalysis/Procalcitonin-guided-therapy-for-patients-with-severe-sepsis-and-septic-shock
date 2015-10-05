@@ -6,18 +6,16 @@
  <design>randomized controlled trial</design>
  <patients total="79">
  <description>suspected severe sepsis or septic shock admitted to the ICU</description>
- <bullet>Mean age 64 average=67.7</bullet>
+ <bullet>Mean age PCT group:64 (average=67.7)
  </patients>
- <intervention>baseline PCT and daily until the seventh day or until antibiotics were stopped:90% Decrease
+ <intervention>Baseline PCT and daily until the seventh day or until antibiotics were stopped(90% Decrease)
 </intervention>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>duration of antibiotic treatment, antibiotic exposure days,
- days alive without antibiotics</bullet>
- <bullet type='secondary'>28-day mortality, in-hospital mortality,
-length of stay in the ICU and hospital, clinical cure, reoccurrence of the initial infection, and nosocomial
-superinfection</bullet>
+ <bullet type='primary' >duration of antibiotic treatment</bullet>
+ <bullet type='secondary'>28-day mortality, in-hospital mortality,length of ICU and hospital stay
+</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
