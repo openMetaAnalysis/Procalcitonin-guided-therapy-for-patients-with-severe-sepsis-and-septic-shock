@@ -6,12 +6,10 @@
  <design>randomized controlled trial</design>
  <patients total="79">
  <description>suspected severe sepsis or septic shock admitted to the ICU</description>
- <bullet>Mean age 25 months</bullet>
+ <bullet>Mean age 64 (average=67.7)
  </patients>
- <intervention>antibiotics were stopped when PCT levels had decreased 90% or
-more from the initial value (if clinicians agreed) but not before Day 3
-(if baseline PCT levels were,1 mg/L) or Day 5 (if baseline PCT levels
-were greater than 1 mg/L). </intervention>
+ <intervention>baseline PCT and daily until the seventh day or until antibiotics were stopped(90% Decrease)
+</intervention>
  <comparison>usual care
  </comparison>
  <outcome>
