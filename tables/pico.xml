@@ -6,9 +6,9 @@
  <design>randomized controlled trial</design>
  <patients total="79">
  <description>suspected severe sepsis or septic shock admitted to the ICU</description>
- <bullet>Mean age 64 (average=67.7)
+ <bullet>Mean age 64 average=67.7</bullet>
  </patients>
- <intervention>baseline PCT and daily until the seventh day or until antibiotics were stopped(90% Decrease)
+ <intervention>baseline PCT and daily until the seventh day or until antibiotics were stopped:90% Decrease
 </intervention>
  <comparison>usual care
  </comparison>
