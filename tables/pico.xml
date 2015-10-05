@@ -5,10 +5,11 @@
 <citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
  <design>randomized controlled trial</design>
  <patients total="79">
- <description>suspected severe sepsis or septic shock admitted to the ICU</description>
+ <description>suspected severe sepsis or septic shock admitted to the Medical +Surgical ICU</description>
  <bullet>Mean age PCT group:64 (average=67.7)
  </patients>
- <intervention>Baseline PCT and daily until the seventh day or until antibiotics were stopped(90% Decrease)
+ <intervention>Baseline PCT and daily until the seventh day or until antibiotics were stopped:
+ (90% Decrease)
 </intervention>
  <comparison>usual care
  </comparison>
@@ -23,8 +24,7 @@
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
  <design>randomized controlled trial</design>
  <patients total="27">
- <description>surgical intensive care
-patients with severe sepsis</description>
+ <description>patients with severe sepsis in surgical ICU</description>
  <bullet>Mean age 69.3 years</bullet>
  </patients>
  <intervention> PCT less than 1 ng/mL and clinical signs of infection improved: antibiotics discontinued
