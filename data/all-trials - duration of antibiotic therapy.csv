@@ -1,7 +1,7 @@
 Study,             Year,PMID,experimental_mean(SD),experimental_total,control_mean(SD),control_total, Cofactor,
 Nobre,             2008,18096708, 6(7.75),  39,9.5(7.75),40,Control group: Usual care,
-Hochreiter,        2009,19493352, 5.9(1.7), 57,7.9(0.5), 53,Control group: Usual care,
 Schoeder,          2009,19034493, 6.6(1.1), 14,8.3(0.7), 13,Control group: Usual care,
+Hochreiter,        2009,19493352, 5.9(1.7), 57,7.9(0.5), 53,Control group: Usual care,
 Bouadma (PRORATA), 2009,20097417, 6.1(6.0),307,9.9(7.1), 314,Control group: Usual care,
 Annane,            2013,23418298, 5(2.22),  31,5(1.48),   30,Control group: Usual care,
 Deliberato,        2013,23711530,10(9),     42,11(10.75), 39,Control group: Usual care,
