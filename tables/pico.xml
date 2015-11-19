@@ -151,7 +151,7 @@ sepsis, severe sepsis, or septic shock in ICU</description>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary'>Duration of antibiotic therapy</bullet>
+ <bullet type='primary'> Duration of antibiotic therapy</bullet>
  <bullet type='secondary'> In-hospital mortality, ICU
 mortality, ICU length of stay</bullet>
  </outcome>
@@ -186,7 +186,7 @@ mortality, ICU length of stay</bullet>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary'>In hospital mortality</bullet>
+ <bullet type='primary'>In-hospital mortality</bullet>
  <bullet type='secondary'> Number of ICU days and others</bullet>
  </outcome>
 </study>
