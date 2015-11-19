@@ -33,7 +33,7 @@
  </comparison>
  <outcome> 
  <bullet type='primary' > Length of antibiotic treatment (days)</bullet>
- <bullet type='secondary'> cost of antibiotic treatment </bullet>
+ <bullet type='secondary'> others </bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -70,19 +70,15 @@ declined more than 25% to 35% of the initial concentration within 3 days
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' >mortality at days 28 and 60 (non-inferiority analysis),
- and number of days without antibiotics by day 28 (superiority analysis) </bullet>
- <bullet type='secondary'>percentage of patients with relapse or superinfection
-(days 1–28); number of days without mechanical
-ventilation, defi ned as unassisted breathing (days 1–28);
-SOFA score (days 1, 7, 14, 21, and 28); length of stay in the
-intensive care unit and hospital; days of exposure to each
-antibiotic per 1000 inpatient days, defi ned as the number
+ <bullet type='primary' >mortality at days 28 and 60
+  </bullet>
+ <bullet type='secondary'>others
+
+length of stay in the
+intensive care unit and hospital;  number
 of days (more than 24 h) of continuous antibiotic treatment (days 1–28);
 duration of antibiotic treatment according to infection
-site; and percentage of emerging multidrug-resistant
-bacteria isolated from specimens taken for routine
-microbiological assessments (days 1–28).</bullet>
+site; and others.</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -99,14 +95,10 @@ microbiological assessments (days 1–28).</bullet>
  </comparison>
  <outcome>
  <bullet type='primary' >proportion of patients 
- receiving antibiotics at day 5 postrandomisation </bullet>
+ receiving antibiotics at day 5 </bullet>
  <bullet type='secondary'>Secondary outcomes included death at day 5, at ICU
-discharge and at hospital discharge, the proportion of
-patients started on antibiotics postrandomisation, the
-duration of antibiotic exposure, the SOFA score at day 3
-and day 5, the proportion of patients with infection
-acquired between randomisation and day 3, day 5 and
-ICU discharge, and ICU and hospital length-of-stay </bullet>
+discharge and at hospital discharge, , the
+duration of antibiotic exposure, ICU and hospital length-of-stay and others</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -123,12 +115,10 @@ ICU discharge, and ICU and hospital length-of-stay </bullet>
  </comparison>
  <outcome>
  <bullet type='primary'>duration of antibiotic therapy
-for the first episode of infection</bullet>
- <bullet type='secondary'>1) total number of days on antibiotic therapy; 2)
-days off antibiotic therapy; 3) death from any cause during the
+</bullet>
+ <bullet type='secondary'>total number of days on antibiotic therapy;death from any cause during the
 28 days of follow-up in the hospital; 4) length of stay (LOS) in
-the ICU and LOS in the hospital; and 5) clinical cure, recurrent
-infection, and nosocomial infection.</bullet>
+the ICU and LOS in the hospital;and others
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -146,8 +136,7 @@ infection, and nosocomial infection.</bullet>
  <outcome>
  <bullet type='primary'>time to antibiotic
 cessation at 28 days, hospital discharge, or death</bullet>
- <bullet type='secondary'> number of antibiotic daily defined doses (DDD) at Day 28,
-ICU and hospital length of stay, mortality and 90-day all-cause
+ <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause and others
 mortality</bullet>
  </outcome>
 </study>
@@ -167,8 +156,7 @@ sepsis, severe sepsis, or septic shock in ICU</description>
  <outcome>
  <bullet type='primary'>duration of antibiotic therapy</bullet>
  <bullet type='secondary'> in-hospital mortality, ICU
-mortality, ICU length of stay, recurrence of the initial infection,
-analysis of the CRP levels along with the PCT protocol, and costs.</bullet>
+mortality, ICU length of stay</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -185,7 +173,7 @@ analysis of the CRP levels along with the PCT protocol, and costs.</bullet>
  </comparison>
  <outcome>
  <bullet type='primary'>death from any cause at day 28 </bullet>
- <bullet type='secondary'> length of stay in ICU, rate of mechanical ventilation per day and others </bullet>
+ <bullet type='secondary'> length of stay in ICU and others </bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -202,7 +190,7 @@ analysis of the CRP levels along with the PCT protocol, and costs.</bullet>
  </comparison>
  <outcome>
  <bullet type='primary'>In hospital mortality</bullet>
- <bullet type='secondary'> Number of ICU days, number of ventilator days, and others</bullet>
+ <bullet type='secondary'> Number of ICU daysand others</bullet>
  </outcome>
 </study>
 <!-- Leave this bottom line -->
