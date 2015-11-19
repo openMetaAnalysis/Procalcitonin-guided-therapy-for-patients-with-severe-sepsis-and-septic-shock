@@ -5,7 +5,7 @@
 <citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
  <design>randomized controlled trial</design>
  <patients total="79">
- <description>  suspected severe sepsis or septic shock in medical and surgical ICU </description>
+ <description>Suspected severe sepsis or septic shock in medical and surgical ICU </description>
  <bullet>Mean age 67.7</bullet>
  </patients>
  <intervention>  Antibiotic cessation: PCT declined more than 90% of initial value 
@@ -13,7 +13,7 @@
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' >duration of antibiotic treatment</bullet>
+ <bullet type='primary' >Duration of antibiotic treatment</bullet>
  <bullet type='secondary'>28-day mortality, in-hospital mortality,length of ICU and hospital stay
 </bullet>
  </outcome>
@@ -23,7 +23,7 @@
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
  <design>randomized controlled trial</design>
  <patients total="27">
- <description> severe sepsis in surgical ICU</description>
+ <description>Severe sepsis in surgical ICU</description>
  <bullet>Mean age 68.8 years</bullet>
  </patients>
  <intervention>  Antiobiotic cessation: PCT less than 1 ng/mL or
@@ -33,7 +33,7 @@
  </comparison>
  <outcome> 
  <bullet type='primary' > Length of antibiotic treatment (days)</bullet>
- <bullet type='secondary'> others </bullet>
+ <bullet type='secondary'>Others </bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -41,8 +41,7 @@
 <citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
  <design>randomized controlled trial</design>
  <patients total="110">
- <description>  confirmed or highly suspected bacterial infections
- and at least two concomitant SIRS
+ <description>Confirmed or highly suspected bacterial infections and at least two concomitant SIRS
 criteria in surgical ICU </description>
  <bullet>Mean age 66.9 years </bullet>
  </patients>
@@ -53,7 +52,7 @@ declined more than 25% to 35% of the initial concentration within 3 days
  <comparison>standard regimen of antibiotics over 8 days
  </comparison>
  <outcome>
- <bullet type='primary' >length of antibiotic treatment</bullet>
+ <bullet type='primary' >Length of antibiotic treatment</bullet>
  <bullet type='secondary'>Length of intensive care treatment and others</bullet>
  </outcome>
 </study>
@@ -70,13 +69,11 @@ declined more than 25% to 35% of the initial concentration within 3 days
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' >mortality at days 28 and 60
+ <bullet type='primary' >Mortality at days 28 and 60
   </bullet>
- <bullet type='secondary'>others
-
-length of stay in the
-intensive care unit and hospital;  number
-of days (more than 24 h) of continuous antibiotic treatment (days 1–28);
+ <bullet type='secondary'>Length of stay in the
+intensive care unit and hospital;number
+of days (more than 24 hr) of continuous antibiotic treatment (days 1–28);
 duration of antibiotic treatment according to infection
 site; and others.</bullet>
  </outcome>
@@ -94,11 +91,10 @@ site; and others.</bullet>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' >proportion of patients 
+ <bullet type='primary' >Proportion of patients 
  receiving antibiotics at day 5 </bullet>
- <bullet type='secondary'>Secondary outcomes included death at day 5, at ICU
-discharge and at hospital discharge, , the
-duration of antibiotic exposure, ICU and hospital length-of-stay and others</bullet>
+ <bullet type='secondary'>Death at day 5,at ICU
+discharge and at hospital discharge,duration of antibiotic exposure, ICU and hospital length-of-stay and others</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -135,7 +131,7 @@ the ICU and LOS in the hospital;and others
  <comparison> usual care
  </comparison>
  <outcome>
- <bullet type='primary'>time to antibiotic
+ <bullet type='primary'>Time to antibiotic
 cessation at 28 days, hospital discharge, or death</bullet>
  <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause and others
 mortality</bullet>
@@ -155,7 +151,7 @@ sepsis, severe sepsis, or septic shock in ICU</description>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary'>duration of antibiotic therapy</bullet>
+ <bullet type='primary'>Duration of antibiotic therapy</bullet>
  <bullet type='secondary'> in-hospital mortality, ICU
 mortality, ICU length of stay</bullet>
  </outcome>
@@ -173,8 +169,8 @@ mortality, ICU length of stay</bullet>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary'>death from any cause at day 28 </bullet>
- <bullet type='secondary'> length of stay in ICU and others </bullet>
+ <bullet type='primary'>Death from any cause at day 28 </bullet>
+ <bullet type='secondary'>Length of stay in ICU and others </bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
@@ -182,7 +178,7 @@ mortality, ICU length of stay</bullet>
 <citation year="2007" pmid=" 17523274" trialregistration="" journal_abbrev="Hepatogastroenterology">Svoboda</citation>
  <design>randomized controlled trial</design>
  <patients total="72">
- <description> severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
+ <description>Severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
  <bullet>Mean age 45.8 years </bullet>
  </patients>
  <intervention> Severe sepsis with PCT >2 ng/mL: change antibiotics and intravascular devices
@@ -191,7 +187,7 @@ mortality, ICU length of stay</bullet>
  </comparison>
  <outcome>
  <bullet type='primary'>In hospital mortality</bullet>
- <bullet type='secondary'> Number of ICU daysand others</bullet>
+ <bullet type='secondary'> Number of ICU days and others</bullet>
  </outcome>
 </study>
 <!-- Leave this bottom line -->
