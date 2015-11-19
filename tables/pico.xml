@@ -192,3 +192,22 @@ mortality, ICU length of stay</bullet>
 </study>
 <!-- Leave this bottom line -->
 </included>
+<!-- start of a new study -->
+<study>
+<citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
+ <design>randomized controlled trial</design>
+ <patients total="509">
+ <description>All ICU patients suspected of developing infection </description>
+ <bullet>Mean age 65.5 years </bullet>
+ </patients>
+ <intervention> Antibiotic Cessation: PCT less than 0.25 ug/L or les than 0.5 ug/L more and less discouraged respectively.
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'> Antibiotic Consumption Days (</bullet>
+ <bullet type='secondary'>Others</bullet>
+ </outcome>
+</study>
+<!-- Leave this bottom line -->
+</included>
