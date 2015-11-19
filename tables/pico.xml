@@ -13,7 +13,7 @@
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary' >Duration of antibiotic treatment</bullet>
+ <bullet type='primary' > Duration of antibiotic treatment</bullet>
  <bullet type='secondary'>28-day mortality, in-hospital mortality,length of ICU and hospital stay
 </bullet>
  </outcome>
@@ -110,9 +110,9 @@ discharge and at hospital discharge,duration of antibiotic exposure, ICU and hos
  <comparison> protocol based on the serum levels of CRP
  </comparison>
  <outcome>
- <bullet type='primary'>duration of antibiotic therapy
+ <bullet type='primary'>Duration of antibiotic therapy
 </bullet>
- <bullet type='secondary'>total number of days on antibiotic therapy;death from any cause during the
+ <bullet type='secondary'>Total number of days on antibiotic therapy;death from any cause during the
 28 days of follow-up in the hospital;length of stay (LOS) in
 the ICU and LOS in the hospital;and others
 </bullet>
@@ -152,7 +152,7 @@ sepsis, severe sepsis, or septic shock in ICU</description>
  </comparison>
  <outcome>
  <bullet type='primary'>Duration of antibiotic therapy</bullet>
- <bullet type='secondary'> in-hospital mortality, ICU
+ <bullet type='secondary'> In-hospital mortality, ICU
 mortality, ICU length of stay</bullet>
  </outcome>
 </study>
@@ -161,7 +161,7 @@ mortality, ICU length of stay</bullet>
 <citation year="2011" pmid=" 21572328" trialregistration="" journal_abbrev="Crit Care Med">Jensen</citation>
  <design>randomized controlled trial</design>
  <patients total="1200">
- <description> length of stay of more than 24 hours in medical and surgical ICU</description>
+ <description> Length of stay of more than 24 hours in medical and surgical ICU</description>
  <bullet>Mean age 65.1 years </bullet>
  </patients>
  <intervention>Escalation of antibiotics/interventions based on PCT of more than 1 ng/ml
