@@ -191,9 +191,9 @@ mortality, ICU length of stay</bullet>
  </outcome>
 </study>
 <!-- Leave this bottom line -->
-</included>
+
 <!-- start of a new study -->
-</study>
+ <study>
 <citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
  <design>randomized controlled trial</design>
  <patients total="509">
