@@ -131,3 +131,6 @@
  <attrition explanation="Consort flow diagram not provided">Unknown</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unknown</selective_reporting>
  <other_biases>Unknown</other_biases>
+ </study>
+<!-- Leave this bottom line -->
+</included>
