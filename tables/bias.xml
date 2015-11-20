@@ -2,13 +2,13 @@
 <included>
 <!-- start of a new study -->
 <study>
-<citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med" totalsubjects="79" >Nobre</citation>
+<citation year="2008" pmid="18096708" trialregistration="NCT00250666" journal_abbrev="Am J Respir Crit Care Med" totalsubjects="79" >Nobre</citation>
  <randomization explanation="Method of randomization not described">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
+ <selective_reporting explanation="Original protocol is availablen.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -57,13 +57,13 @@
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med" totalsubjects="94" >Oliveira</citation>
+<citation year="2013" pmid="23921272" trialregistration="NCT00934011" journal_abbrev="Crit Care Med" totalsubjects="94" >Oliveira</citation>
  <randomization explanation="Method of randomization not described">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">Low risk</selective_reporting>
+ <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
