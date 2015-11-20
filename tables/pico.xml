@@ -216,7 +216,7 @@ mortality, ICU length of stay</bullet>
  <design>randomized controlled trial</design>
  <patients total="82">
  <description>All patients with sepsis hospitalized in the ICU </description>
- <bullet>Mean age >18 years </bullet>
+ <bullet>Mean age 49.56 </bullet>
  </patients>
  <intervention> Antibiotic Cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L.
  </intervention>
