@@ -211,3 +211,22 @@ mortality, ICU length of stay</bullet>
 </study>
 <!-- Leave this bottom line -->
 </included>
+<!-- start of a new study -->
+ <study>
+<citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="ChinCritCareMed">Liu</citation>
+ <design>randomized controlled trial</design>
+ <patients total="82">
+ <description>All patients with sepsis hospitalized in the ICU </description>
+ <bullet>Mean age >18 years </bullet>
+ </patients>
+ <intervention> Antibiotic Cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L.
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'> Antibiotic Usage Days</bullet>
+ <bullet type='secondary'>Length of Hospital Stay,ICU stay, Mortality in 28 days,Others</bullet>
+ </outcome>
+</study>
+<!-- Leave this bottom line -->
+</included>
