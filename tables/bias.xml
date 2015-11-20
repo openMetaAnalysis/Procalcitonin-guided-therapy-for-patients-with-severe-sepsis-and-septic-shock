@@ -111,4 +111,13 @@
  <other_biases>Low risk</other_biases>
 </study>
 <!-- Leave this bottom line -->
-</included>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="22809906" trialregistration="" journal_abbrev="Hepatogastroenterology" totalsubjects="72" >Svoboda</citation>
+ <randomization explanation="Method of randomization not described">Low risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
