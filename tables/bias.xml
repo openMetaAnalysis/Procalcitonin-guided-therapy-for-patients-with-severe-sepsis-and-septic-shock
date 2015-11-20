@@ -113,7 +113,7 @@
 <!-- Leave this bottom line -->
 <!-- start of a new study -->
 <study>
-<citation year="2013" pmid="22809906" trialregistration="" journal_abbrev="Hepatogastroenterology" totalsubjects="72" >Svoboda</citation>
+<citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med" totalsubjects="509" >Layios</citation>
  <randomization explanation="Method of randomization not described">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
@@ -121,3 +121,13 @@
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="Chin CritCare Med" totalsubjects="82" >Liu</citation>
+ <randomization explanation="Method of randomization not described">Unknown</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Unknown</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unknown</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unknown</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">Unknown</attrition>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unknown</selective_reporting>
+ <other_biases>Unknown</other_biases>
