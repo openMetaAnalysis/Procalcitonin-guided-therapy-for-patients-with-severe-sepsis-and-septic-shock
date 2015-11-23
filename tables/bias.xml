@@ -19,7 +19,7 @@
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration .">Unclear risk</selective_reporting>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration .">High risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -30,7 +30,7 @@
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol is available..">Low risk</selective_reporting>
+ <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -107,7 +107,7 @@
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">Low risk</selective_reporting>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -118,7 +118,7 @@
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Unknown</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unknown</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">Low risk</selective_reporting>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">High Risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
