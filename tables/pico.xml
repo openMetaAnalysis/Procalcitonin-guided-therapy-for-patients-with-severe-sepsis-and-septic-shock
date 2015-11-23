@@ -198,7 +198,7 @@ mortality, ICU length of stay</bullet>
  <design>randomized controlled trial</design>
  <patients total="509">
  <description>All ICU patients suspected of developing infection </description>
- <bullet>Mean age 65.5 years </bullet>
+ <bullet>Mean age 65.51 years </bullet>
  </patients>
  <intervention> Antibiotic Cessation: PCT less than 0.25 ug/L or les than 0.5 ug/L more and less discouraged respectively.
  </intervention>
