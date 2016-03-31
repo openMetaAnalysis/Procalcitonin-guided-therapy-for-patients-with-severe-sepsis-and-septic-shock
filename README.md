@@ -12,7 +12,10 @@ This repository is a limited review and contains outcomes data only without PICO
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 **Results:** Details of the studies included are in the:
+* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
+* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+* [Reconcliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Procalcitonin-guided-antibiotics-for-severe-sepsis-and-septic-shock/master/forest-plots/Outcome-Primary.png "Principle results")
@@ -38,3 +41,8 @@ None
 ####Trials under going review
 1. de Jong E, van Oers JA, Beishuizen A, Vos P, Vermeijden WJ, Haas LE, et al. Efficacy and safety of
 procalcitonin guidance in reducing the duration of antibiotic treatment in critically ill patients: a randomised, controlled, open-label trial. Lancet Infect Dis. 2016 Feb 29. doi:[10.1016/S1473-3099(16)00053-0](http://dx.doi.org/10.1016/S1473-3099(16)00053-0). PMID: [26947523](http://pubmed.gov/26947523)
+
+-------------------------------
+[Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
+
