@@ -30,7 +30,11 @@ review and meta-analysis. Crit Care. 2013 Dec 11;17(6):R291. doi: [10.1186/cc131
 undifferentiated infection or suspected sepsis. A randomized controlled trial. Am J Respir Crit Care Med. 2014 Nov 15;190(10):1102-10. doi:
 [10.1164/rccm.201408-1483OC](http://dx.doi.org/10.1164/rccm.201408-1483OC.). PMID: [25295709](http://pubmed.gov/25295709).
 2. Oliveira CF, Botoni FA, Oliveira CR, Silva CB, Pereira HA, Serufo JC, Nobre V. Procalcitonin versus C-reactive protein for guiding antibiotic therapy in sepsis:
-a randomized trial. Crit Care Med. 2013 Oct;41(10):2336-43. doi: [10.1097/CCM.0b013e31828e969f](http://dx.doi.org/10.1097/CCM.0b013e31828e969f). PMID: [23921272](http://pubmed.gov/)23921272.
+a randomized trial. Crit Care Med. 2013 Oct;41(10):2336-43. doi: [10.1097/CCM.0b013e31828e969f](http://dx.doi.org/10.1097/CCM.0b013e31828e969f). PMID: [23921272](http://pubmed.gov/23921272).
 
 ####Trials excluded - selected list of important trials
 None
+
+####Trials under going review
+1. de Jong E, van Oers JA, Beishuizen A, Vos P, Vermeijden WJ, Haas LE, et al. Efficacy and safety of
+procalcitonin guidance in reducing the duration of antibiotic treatment in critically ill patients: a randomised, controlled, open-label trial. Lancet Infect Dis. 2016 Feb 29. doi:[10.1016/S1473-3099(16)00053-0](http://dx.doi.org/10.1016/S1473-3099(16)00053-0). PMID: [26947523](http://pubmed.gov/26947523)
