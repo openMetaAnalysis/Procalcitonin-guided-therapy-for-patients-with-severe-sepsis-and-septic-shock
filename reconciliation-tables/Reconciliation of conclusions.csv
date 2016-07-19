@@ -1,9 +1,9 @@
 ,Current,Westwood,Prkno
 ,,PMID 26569153,PMID 24330744
-Duration of antibiotics,Reduces by 1.8 days,"""limited available data suggest that PCT testing may be effective""","""helpful approach to guide antibiotic therapy"""
-Heterogeneity,19% (controlling for duration of antibiotics in control groups),95%,0%
+Duration of antibiotics,Reduces by 1.6 days,"""limited available data suggest that PCT testing may be effective""","""helpful approach to guide antibiotic therapy"""
+Heterogeneity,79% (controlling for duration of antibiotics in control groups),95%,0%
 ,,,
 Mortality,0.93 (0.85 - 1.03),"""No study reported a statistically significant difference""","""without a beneficial effect on mortality"""
-Heterogeneity,79%,Not reported,0%
+Heterogeneity,0%,Not reported,0%
 ,,,
 Comments,,,
