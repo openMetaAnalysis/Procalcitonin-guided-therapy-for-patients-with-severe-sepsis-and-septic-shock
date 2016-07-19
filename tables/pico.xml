@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <included>
+
+<!-- start of a new study -->
+<study>
+<citation year="2007" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology">Svoboda</citation>
+ <design>randomized controlled trial</design>
+ <patients total="72">
+ <description>Severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
+ <bullet>Mean age 45.8 years </bullet>
+ </patients>
+ <intervention> Severe sepsis with PCT >2 ng/mL: change antibiotics and intravascular devices
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'>In-hospital mortality</bullet>
+ <bullet type='secondary'> Number of ICU days and others</bullet>
+ </outcome>
+</study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
@@ -18,6 +37,7 @@
 </bullet>
  </outcome>
 </study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
@@ -36,6 +56,7 @@
  <bullet type='secondary'>Others </bullet>
  </outcome>
 </study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
@@ -53,12 +74,14 @@ declined more than 25% to 35% of the initial concentration within 3 days
  </comparison>
  <outcome>
  <bullet type='primary' >Length of antibiotic treatment</bullet>
+ <bullet type='secondary'>Mortality at 90 days</bullet>
  <bullet type='secondary'>Length of intensive care treatment and others</bullet>
  </outcome>
 </study>
+
 <!-- start of a new study -->
 <study>
-<citation year="2010" pmid="20097417" trialregistration="" journal_abbrev="Lancet">Bouadma</citation>
+<citation year="2010" pmid="20097417" trialregistration="" journal_abbrev="Lancet">Bouadma (PRORATA)</citation>
  <design>randomized controlled trial</design>
  <patients total="621">
  <description> suspected bacterial infections in ICU</description>
@@ -78,6 +101,43 @@ duration of antibiotic treatment according to infection
 site; and others.</bullet>
  </outcome>
 </study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2011" pmid=" 21572328" trialregistration="" journal_abbrev="Crit Care Med">Jensen</citation>
+ <design>randomized controlled trial</design>
+ <patients total="1200">
+ <description> Length of stay of more than 24 hours in medical and surgical ICU</description>
+ <bullet>Mean age 65.1 years </bullet>
+ </patients>
+ <intervention>Escalation of antibiotics/interventions based on PCT of more than 1 ng/ml
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'>Death from any cause at day 28 </bullet>
+ <bullet type='secondary'>Length of stay in ICU and others </bullet>
+ </outcome>
+</study>
+
+<!-- start of a new study -->
+ <study>
+<citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
+ <design>randomized controlled trial</design>
+ <patients total="509">
+ <description>All ICU patients suspected of developing infection </description>
+ <bullet>Mean age 65.51 years </bullet>
+ </patients>
+ <intervention> Antibiotic Cessation: PCT less than 0.25 ug/L or les than 0.5 ug/L more and less discouraged respectively.
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'> Antibiotic Consumption Days</bullet>
+ <bullet type='secondary'>Others</bullet>
+ </outcome>
+</study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2013" pmid="23418298" trialregistration="" journal_abbrev="BMJ Open">Annane</citation>
@@ -97,6 +157,7 @@ site; and others.</bullet>
 discharge and at hospital discharge,duration of antibiotic exposure, ICU and hospital length-of-stay and others</bullet>
  </outcome>
 </study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med">Oliveira</citation>
@@ -118,98 +179,7 @@ the ICU and LOS in the hospital;and others
 </bullet>
 </outcome>
 </study>
-<!-- start of a new study -->
-<study>
-<citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
- <design>randomized controlled trial</design>
- <patients total="394">
- <description>suspected bacterial infection or sepsis in ICU</description>
- <bullet>Mean age 64.4 years</bullet>
- </patients>
- <intervention>Antibiotic cessation: PCT less than 0.25 ng/ml or declined more than 90% of initial value
- </intervention>
- <comparison> usual care
- </comparison>
- <outcome>
- <bullet type='primary'>Time to antibiotic
-cessation at 28 days, hospital discharge, or death</bullet>
- <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause and others
-mortality</bullet>
- </outcome>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2013" pmid=" 23711530" trialregistration="" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
- <design>randomized controlled trial</design>
- <patients total="81">
- <description>microbiologically confirmed infections and
-sepsis, severe sepsis, or septic shock in ICU</description>
- <bullet>Mean age 65.1 years </bullet>
- </patients>
- <intervention> Antibiotic cessation: PCT less than 0.5 ng/ml or declined more than 90% of initial value
- </intervention>
- <comparison>usual care
- </comparison>
- <outcome>
- <bullet type='primary'> Duration of antibiotic therapy</bullet>
- <bullet type='secondary'> In-hospital mortality, ICU
-mortality, ICU length of stay</bullet>
- </outcome>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2011" pmid=" 21572328" trialregistration="" journal_abbrev="Crit Care Med">Jensen</citation>
- <design>randomized controlled trial</design>
- <patients total="1200">
- <description> Length of stay of more than 24 hours in medical and surgical ICU</description>
- <bullet>Mean age 65.1 years </bullet>
- </patients>
- <intervention>Escalation of antibiotics/interventions based on PCT of more than 1 ng/ml
- </intervention>
- <comparison>usual care
- </comparison>
- <outcome>
- <bullet type='primary'>Death from any cause at day 28 </bullet>
- <bullet type='secondary'>Length of stay in ICU and others </bullet>
- </outcome>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2007" pmid=" 17523274" trialregistration="" journal_abbrev="Hepatogastroenterology">Svoboda</citation>
- <design>randomized controlled trial</design>
- <patients total="72">
- <description>Severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
- <bullet>Mean age 45.8 years </bullet>
- </patients>
- <intervention> Severe sepsis with PCT >2 ng/mL: change antibiotics and intravascular devices
- </intervention>
- <comparison>usual care
- </comparison>
- <outcome>
- <bullet type='primary'>In-hospital mortality</bullet>
- <bullet type='secondary'> Number of ICU days and others</bullet>
- </outcome>
-</study>
-<!-- Leave this bottom line -->
 
-<!-- start of a new study -->
- <study>
-<citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
- <design>randomized controlled trial</design>
- <patients total="509">
- <description>All ICU patients suspected of developing infection </description>
- <bullet>Mean age 65.51 years </bullet>
- </patients>
- <intervention> Antibiotic Cessation: PCT less than 0.25 ug/L or les than 0.5 ug/L more and less discouraged respectively.
- </intervention>
- <comparison>usual care
- </comparison>
- <outcome>
- <bullet type='primary'> Antibiotic Consumption Days</bullet>
- <bullet type='secondary'>Others</bullet>
- </outcome>
-</study>
-<!-- Leave this bottom line -->
 <!-- start of a new study -->
  <study>
 <citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="ChinCritCareMed">Liu</citation>
@@ -227,5 +197,98 @@ mortality, ICU length of stay</bullet>
  <bullet type='secondary'>Length of Hospital Stay,ICU stay, Mortality in 28 days,Others</bullet>
  </outcome>
 </study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23711530" trialregistration="" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
+ <design>randomized controlled trial</design>
+ <patients total="81">
+ <description>microbiologically confirmed infections and
+sepsis, severe sepsis, or septic shock in ICU</description>
+ <bullet>Mean age 65.1 years </bullet>
+ </patients>
+ <intervention> Antibiotic cessation: PCT less than 0.5 ng/ml or declined more than 90% of initial value
+ </intervention>
+ <comparison>usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'> Duration of antibiotic therapy</bullet>
+ <bullet type='secondary'> In-hospital mortality, ICU
+mortality, ICU length of stay</bullet>
+ </outcome>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
+ <design>randomized controlled trial</design>
+ <patients total="394">
+ <description>suspected bacterial infection or sepsis in ICU</description>
+ <bullet>Mean age 64.4 years</bullet>
+ </patients>
+ <intervention>Antibiotic cessation: PCT less than 0.25 ng/ml or declined more than 90% of initial value
+ </intervention>
+ <comparison> usual care
+ </comparison>
+ <outcome>
+ <bullet type='primary'>Time to antibiotic cessation at 28 days, hospital discharge, or death</bullet>
+ <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause and others mortality</bullet>
+ </outcome>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran">Najafi</citation>
+ <design>randomized controlled trial</design>
+ <patients total="pending">
+ <description>pending</description>
+ <bullet>pending</bullet>
+ </patients>
+ <intervention>pending
+ </intervention>
+ <comparison>pending
+ </comparison>
+ <outcome>
+ <bullet type='primary'>pending</bullet>
+ <bullet type='secondary'>pending</bullet>
+ </outcome>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
+ <design>randomized controlled trial</design>
+ <patients total="pending">
+ <description>pending</description>
+ <bullet>pending</bullet>
+ </patients>
+ <intervention>pending
+ </intervention>
+ <comparison>pending
+ </comparison>
+ <outcome>
+ <bullet type='primary'>pending</bullet>
+ <bullet type='secondary'>pending</bullet>
+ </outcome>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2015" pmid="pending" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
+ <design>randomized controlled trial</design>
+ <patients total="pending">
+ <description>pending</description>
+ <bullet>pending</bullet>
+ </patients>
+ <intervention>pending
+ </intervention>
+ <comparison>pending
+ </comparison>
+ <outcome>
+ <bullet type='primary'>pending</bullet>
+ <bullet type='secondary'>pending</bullet>
+ </outcome>
+</study>
+
 <!-- Leave this bottom line -->
 </included>
