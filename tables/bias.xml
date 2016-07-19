@@ -2,6 +2,18 @@
 <included>
 <!-- start of a new study -->
 <study>
+<citation year="2007" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology" totalsubjects="72" >Svoboda</citation>
+ <randomization explanation="Method of randomization not described">Low risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
+<!-- start of a new study -->
+<study>
 <citation year="2008" pmid="18096708" trialregistration="NCT00250666" journal_abbrev="Am J Respir Crit Care Med" totalsubjects="79" >Nobre</citation>
  <randomization explanation="Method of randomization not described">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
@@ -11,6 +23,7 @@
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg" totalsubjects="27" >Schroeder</citation>
@@ -22,6 +35,7 @@
  <selective_reporting explanation="Original protocol not available at a website for trial registration .">High risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19493352" trialregistration="ISRCTN10288268" journal_abbrev="Crit Care" totalsubjects="110" >Hochreiter</citation>
@@ -33,6 +47,7 @@
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2010" pmid="20097417" trialregistration="NCT00472667" journal_abbrev="Lancet" totalsubjects="621" >Bouadma</citation>
@@ -44,50 +59,7 @@
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
-<!-- start of a new study -->
-<study>
-<citation year="2013" pmid="23418298" trialregistration="NCT01025180" journal_abbrev="BMJ Open" totalsubjects="62" >Annane</citation>
- <randomization explanation="Method of randomization not described">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unlcear risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
- <other_biases>Low risk</other_biases>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2013" pmid="23921272" trialregistration="NCT00934011" journal_abbrev="Crit Care Med" totalsubjects="94" >Oliveira</citation>
- <randomization explanation="Method of randomization not described">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
- <other_biases>Low risk</other_biases>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2014" pmid="25295709" trialregistration="ACTRN12610000809033" journal_abbrev="Am J Respir Crit Care Med" totalsubjects="394" >ProGUARD</citation>
- <randomization explanation="Method of randomization not described">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Low risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
- <other_biases>Low risk</other_biases>
-</study>
-<!-- start of a new study -->
-<study>
-<citation year="2013" pmid="23711530" trialregistration="NCT01494675" journal_abbrev="Diagnostic Microbiology and Infectious Disease" totalsubjects="81" >Deliberato</citation>
- <randomization explanation="Method of randomization not described">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Low risk</blinding_assessment>
- <attrition explanation="Imbalance in rates of dropouts on Consort diagram.">High risk</attrition>
- <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
- <other_biases>Low risk</other_biases>
-</study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2011" pmid="21572328" trialregistration="NCT00271752" journal_abbrev="Crit Care Med" totalsubjects="1200" >Jensen</citation>
@@ -99,17 +71,7 @@
  <selective_reporting explanation="Original protocol is available .">Low Risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
-<!-- start of a new study -->
-<study>
-<citation year="2013" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology" totalsubjects="72" >Svoboda</citation>
- <randomization explanation="Method of randomization not described">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
- <other_biases>Low risk</other_biases>
-</study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med" totalsubjects="509" >Layios</citation>
@@ -121,6 +83,43 @@
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High Risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23418298" trialregistration="NCT01025180" journal_abbrev="BMJ Open" totalsubjects="62" >Annane</citation>
+ <randomization explanation="">Low risk</randomization>
+ <allocation explanation="">Low risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <attrition explanation="">Low risk</attrition>
+ <selective_reporting explanation="">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23921272" trialregistration="NCT00934011" journal_abbrev="Crit Care Med" totalsubjects="94" >Oliveira</citation>
+ <randomization explanation="">Low risk</randomization>
+ <allocation explanation="">Low risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <attrition explanation="d">Low risk</attrition>
+ <selective_reporting explanation="">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23711530" trialregistration="NCT01494675" journal_abbrev="Diagnostic Microbiology and Infectious Disease" totalsubjects="81" >Deliberato</citation>
+ <randomization explanation="">Low risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
+ <blinding_assessment explanation="">Low risk</blinding_assessment>
+ <attrition explanation="Imbalance in rates of dropouts on Consort diagram.">High risk</attrition>
+ <selective_reporting explanation="">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
 <!-- start of a new study -->
 <study>
 <citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="Chin CritCare Med" totalsubjects="82" >Liu</citation>
@@ -132,5 +131,54 @@
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High Risk</selective_reporting>
  <other_biases>Unknown</other_biases>
  </study>
-</included>
+
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="25295709" trialregistration="ACTRN12610000809033" journal_abbrev="Am J Respir Crit Care Med" totalsubjects="394" >ProGUARD</citation>
+ <randomization explanation="">Low risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
+ <blinding_assessment explanation="">Low risk</blinding_assessment>
+ <attrition explanation="">Low risk</attrition>
+ <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran" totalsubjects="pending">Najafi</citation>
+ <randomization explanation="Method of randomization not described">pending</randomization>
+ <allocation explanation="Method of concealing allocation not stated">pending</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">pending</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">pending</attrition>
+ <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis" totalsubjects="pending">de Jong</citation>
+ <randomization explanation="Method of randomization not described">pending</randomization>
+ <allocation explanation="Method of concealing allocation not stated">pending</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">pending</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">pending</attrition>
+ <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
+<!-- start of a new study -->
+<study>
+<citation year="2015" pmid="pending" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med" totalsubjects="pending">Bloos</citation>
+ <randomization explanation="Method of randomization not described">pending</randomization>
+ <allocation explanation="Method of concealing allocation not stated">pending</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">pending</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">pending</attrition>
+ <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+
 <!-- Leave this bottom line -->
+</included>
