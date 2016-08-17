@@ -232,7 +232,7 @@ mortality, ICU length of stay</bullet>
  </comparison>
  <outcome>
  <bullet type='primary'>Time to antibiotic cessation at 28 days, hospital discharge, or death</bullet>
- <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause and others mortality</bullet>
+ <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause mortality and others</bullet>
  </outcome>
 </study>
 
@@ -240,17 +240,17 @@ mortality, ICU length of stay</bullet>
 <study>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran">Najafi</citation>
  <design>randomized controlled trial</design>
- <patients total="pending">
- <description>pending</description>
- <bullet>pending</bullet>
+ <patients total="60">
+ <description>Patients who met SIRS criteria in the ICU</description>
+ <bullet>Mean age 40.45 years</bullet>
  </patients>
- <intervention>pending
+ <intervention>Antibiotic therapy withheld if PCT level is lower than 2 ng/ml
  </intervention>
- <comparison>pending
+ <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary'>pending</bullet>
- <bullet type='secondary'>pending</bullet>
+ <bullet type='primary'>use of antibiotic therapy</bullet>
+ <bullet type='secondary'>early mortality and others</bullet>
  </outcome>
 </study>
 
@@ -258,17 +258,17 @@ mortality, ICU length of stay</bullet>
 <study>
 <citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
  <design>randomized controlled trial</design>
- <patients total="pending">
- <description>pending</description>
- <bullet>pending</bullet>
+ <patients total="1575">
+ <description>Critically ill adult patients admitted to the ICU</description>
+ <bullet>Mean age 65  </bullet>
  </patients>
- <intervention>pending
+ <intervention>Antibiotic Cessation: PCT value decreased over 80% or PCT value lower than 0.5 μg/L 
  </intervention>
- <comparison>pending
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'>pending</bullet>
- <bullet type='secondary'>pending</bullet>
+ <bullet type='primary'>Duration of antibiotic treatment</bullet>
+ <bullet type='secondary'>Length of stay in hospital and ICU, mortality at 28 days and 1 year and others</bullet>
  </outcome>
 </study>
 
@@ -276,17 +276,17 @@ mortality, ICU length of stay</bullet>
 <study>
 <citation year="2015" pmid="pending" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
  <design>randomized controlled trial</design>
- <patients total="pending">
- <description>pending</description>
- <bullet>pending</bullet>
+ <patients total="1089">
+ <description>Adults with severe sepsis or septic shock</description>
+ <bullet>Mean age 65.7 years</bullet>
  </patients>
- <intervention>pending
+ <intervention>Antibiotic Cessation: PCT value decreased over 50% or PCT value lower than 1 μg/L starting at day 7 
  </intervention>
- <comparison>pending
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'>pending</bullet>
- <bullet type='secondary'>pending</bullet>
+ <bullet type='primary'>Death from any cause by 28 days</bullet>
+ <bullet type='secondary'>Duration of ICU and hospital stay, duration and costs of antimicrobial therapy, and others</bullet>
  </outcome>
 </study>
 
