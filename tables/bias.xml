@@ -159,11 +159,11 @@
 <!-- start of a new study -->
 <study>
 <citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis" totalsubjects="1575">de Jong</citation>
- <randomization explanation="Method of randomization not described">pending</randomization>
- <allocation explanation="Method of concealing allocation not stated">pending</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
+ <randomization explanation="Method of randomization  described">Low risk</randomization>
+ <allocation explanation="Open label assignment">High risk</allocation>
+ <blinding_people explanation="No blinding of subjects and personnel.">High risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">pending</attrition>
+ <attrition explanation="Consort flow diagram  provided">Low risk</attrition>
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
