@@ -147,10 +147,10 @@
 <!-- start of a new study -->
 <study>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran" totalsubjects="60">Najafi</citation>
- <randomization explanation="Method of randomization not described">pending</randomization>
- <allocation explanation="Method of concealing allocation not stated">pending</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">pending</blinding_assessment>
+ <randomization explanation="">low risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
+ <blinding_people explanation="blinding of subjects but outcome not affected.">low risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">pending</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
  <other_biases>Low risk</other_biases>
@@ -162,7 +162,7 @@
  <randomization explanation="Method of randomization not described">pending</randomization>
  <allocation explanation="Method of concealing allocation not stated">pending</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">pending</blinding_assessment>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">pending</attrition>
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
