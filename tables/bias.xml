@@ -147,9 +147,9 @@
 <!-- start of a new study -->
 <study>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran" totalsubjects="60">Najafi</citation>
- <randomization explanation="">low risk</randomization>
+ <randomization explanation="">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="blinding of subjects only,unclear if outcome affected.">high risk</blinding_people>
+ <blinding_people explanation="blinding of subjects only,unclear if outcome affected.">High risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
@@ -158,7 +158,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis" totalsubjects="pending">de Jong</citation>
+<citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis" totalsubjects="1575">de Jong</citation>
  <randomization explanation="Method of randomization not described">pending</randomization>
  <allocation explanation="Method of concealing allocation not stated">pending</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
@@ -170,7 +170,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2015" pmid="pending" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med" totalsubjects="pending">Bloos</citation>
+<citation year="2015" pmid="2742873" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med" totalsubjects="1089">Bloos</citation>
  <randomization explanation="Method of randomization not described">pending</randomization>
  <allocation explanation="Method of concealing allocation not stated">pending</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">pending</blinding_people>
