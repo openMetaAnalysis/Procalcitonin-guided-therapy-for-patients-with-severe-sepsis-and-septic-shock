@@ -6,16 +6,16 @@
 <citation year="2007" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology">Svoboda</citation>
  <design>randomized controlled trial</design>
  <patients total="72">
- <description>Severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
+ <description>severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
  <bullet>Mean age 45.8 years </bullet>
  </patients>
  <intervention>Severe sepsis with PCT >2 ng/mL: change antibiotics and intravascular devices
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'>In-hospital mortality</bullet>
- <bullet type='secondary'> Number of ICU days and others</bullet>
+ <bullet type='secondary'> Duration of ICU stay </bullet>
  </outcome>
 </study>
 
@@ -24,16 +24,16 @@
 <citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
  <design>randomized controlled trial</design>
  <patients total="79">
- <description>Suspected severe sepsis or septic shock in medical and surgical ICU </description>
+ <description>Suspected severe sepsis or septic shock admitted to the ICU </description>
  <bullet>Mean age 67.7</bullet>
  </patients>
- <intervention>Antibiotic cessation: PCT declined more than 90% of initial value 
+ <intervention> First day antibiotic cessation allowed: 3 if initial PCT value less than 1 μg/L, 5 μg/L if initial PCT value more than 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L
 </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary' > Duration of antibiotic treatment</bullet>
- <bullet type='secondary'>28-day mortality, in-hospital mortality,length of ICU and hospital stay
+ <bullet type='primary' > Total duration of antimicrobial therapy</bullet>
+ <bullet type='secondary'>All cause 28 day mortality, in-hospital mortality, duration of ICU and hospital stay
 </bullet>
  </outcome>
 </study>
@@ -43,16 +43,16 @@
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
  <design>randomized controlled trial</design>
  <patients total="27">
- <description>Severe sepsis in surgical ICU</description>
+ <description>severe sepsis admitted to the surgical ICU</description>
  <bullet>Mean age 68.8 years</bullet>
  </patients>
- <intervention>  Antiobiotic cessation: PCT less than 1 ng/mL or
- declined more than 35% of the initial concentration within 3 days 
+ <intervention>  First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or
+declined more than 25% to 35% of the initial concentration within 3 days
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome> 
- <bullet type='primary' > Length of antibiotic treatment (days)</bullet>
+ <bullet type='primary' > Total duration of antimicrobial therapy</bullet>
  <bullet type='secondary'>Others </bullet>
  </outcome>
 </study>
@@ -62,20 +62,17 @@
 <citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
  <design>randomized controlled trial</design>
  <patients total="110">
- <description>Confirmed or highly suspected bacterial infections and at least two concomitant SIRS
-criteria in surgical ICU </description>
+ <description>confirmed or highly suspected bacterial infection and at least two concomitant SIRS
+criteria admitted to the surgical ICU </description>
  <bullet>Mean age 66.9 years </bullet>
  </patients>
- <intervention>
- Antiobiotic cessation: PCT less than 1 ng/mL or
-declined more than 25% to 35% of the initial concentration within 3 days
- </intervention>
- <comparison>standard regimen of antibiotics over 8 days
+ <intervention> First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or
+declined more than 25% to 35% of the initial concentration within 3 days </intervention>
+ <comparison>Standard regimen of antibiotics over 8 days
  </comparison>
  <outcome>
- <bullet type='primary' >Length of antibiotic treatment</bullet>
- <bullet type='secondary'>Mortality at 90 days</bullet>
- <bullet type='secondary'>Length of intensive care treatment and others</bullet>
+ <bullet type='primary' >Total duration of antimicrobial therapy</bullet>
+ <bullet type='secondary'>All cause mortality at 90 days, duration of ICU stay, and others </bullet>
  </outcome>
 </study>
 
@@ -84,21 +81,18 @@ declined more than 25% to 35% of the initial concentration within 3 days
 <citation year="2010" pmid="20097417" trialregistration="" journal_abbrev="Lancet">Bouadma (PRORATA)</citation>
  <design>randomized controlled trial</design>
  <patients total="621">
- <description> suspected bacterial infections in ICU</description>
+ <description> suspected bacterial infection admitted to the ICU</description>
  <bullet> Mean age 61.5 years </bullet>
  </patients>
- <intervention> Antibiotic cessation: PCT less than 0.5 ng/mL or
- declined more than 80% of the initial concentration  </intervention>
- <comparison>usual care
+ <intervention> First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 80% or PCT value lower than 0.5 μg/L  </intervention>
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary' >Mortality at days 28 and 60
+ <bullet type='primary' >All cause mortality at 28 and 60 days
   </bullet>
- <bullet type='secondary'>Length of stay in the
-intensive care unit and hospital;number
-of days (more than 24 hr) of continuous antibiotic treatment (days 1–28);
-duration of antibiotic treatment according to infection
-site; and others.</bullet>
+ <bullet type='secondary'>Duration of ICU and hospital stay, total number of days on antimicrobial therapy,
+duration of antimicrobial therapy according to infection
+site, and others</bullet>
  </outcome>
 </study>
 
@@ -107,16 +101,16 @@ site; and others.</bullet>
 <citation year="2011" pmid=" 21572328" trialregistration="" journal_abbrev="Crit Care Med">Jensen</citation>
  <design>randomized controlled trial</design>
  <patients total="1200">
- <description> Length of stay of more than 24 hours in medical and surgical ICU</description>
+ <description> admitted to the ICU for more than 24 hours</description>
  <bullet>Mean age 65.1 years </bullet>
  </patients>
- <intervention>Escalation of antibiotics/interventions based on PCT of more than 1 ng/ml
+ <intervention> First day antibiotic cessation allowed: 0 <br/> Escalation of antibiotics/interventions based on PCT of more than 1 μg/L
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'>Death from any cause at day 28 </bullet>
- <bullet type='secondary'>Length of stay in ICU and others </bullet>
+ <bullet type='primary'>All cause mortality at 28 days </bullet>
+ <bullet type='secondary'>Duration of ICU stay, and others </bullet>
  </outcome>
 </study>
 
@@ -125,15 +119,15 @@ site; and others.</bullet>
 <citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
  <design>randomized controlled trial</design>
  <patients total="509">
- <description>All ICU patients suspected of developing infection </description>
+ <description>s suspected of developing an infection admitted to the ICU</description>
  <bullet>Mean age 65.51 years </bullet>
  </patients>
- <intervention> Antibiotic Cessation: PCT less than 0.25 ug/L or les than 0.5 ug/L more and less discouraged respectively.
+ <intervention> First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation:  PCT value lower than 0.5 μg/L
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'> Antibiotic Consumption Days</bullet>
+ <bullet type='primary'> Antibiotic consumption days</bullet>
  <bullet type='secondary'>Others</bullet>
  </outcome>
 </study>
@@ -143,18 +137,18 @@ site; and others.</bullet>
 <citation year="2013" pmid="23418298" trialregistration="" journal_abbrev="BMJ Open">Annane</citation>
  <design>randomized controlled trial</design>
  <patients total="62">
- <description>non-microbiologically proven apparent severe sepsis in ICU</description>
+ <description>non-microbiologically proven apparent severe sepsis admitted to the ICU</description>
  <bullet>Mean age 56.5 years </bullet>
  </patients>
- <intervention> Antibiotic cessation: PCT less than 0.5 ng/ml
+ <intervention> First day antibiotic cessation allowed: 3 <br/> Criteria for antibiotic cessation: not defined
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary' >Proportion of patients 
  receiving antibiotics at day 5 </bullet>
- <bullet type='secondary'>Death at day 5,at ICU
-discharge and at hospital discharge,duration of antibiotic exposure, ICU and hospital length-of-stay and others</bullet>
+ <bullet type='secondary'>All cause mortality at 5 days,at ICU
+discharge and at hospital discharge, total number of days on antimicrobial therapy, duration of ICU and hospital stay, and others</bullet>
  </outcome>
 </study>
 
@@ -163,19 +157,17 @@ discharge and at hospital discharge,duration of antibiotic exposure, ICU and hos
 <citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med">Oliveira</citation>
  <design>randomized controlled trial</design>
  <patients total="94">
- <description>suspected severe sepsis or septic shock in ICU</description>
+ <description> severe sepsis or septic shock admitted to the ICU</description>
  <bullet>Mean age 59.6 years </bullet>
  </patients>
- <intervention> Antibiotic cessation: PCT criteria not defined
+ <intervention> First day antibiotic cessation allowed: not defined <br/> Criteria for antibiotic cessation: not defined
  </intervention>
  <comparison> protocol based on the serum levels of CRP
  </comparison>
  <outcome>
- <bullet type='primary'>Duration of antibiotic therapy
+ <bullet type='primary'>Duration of antimicrobial therapy
 </bullet>
- <bullet type='secondary'>Total number of days on antibiotic therapy;death from any cause during the
-28 days of follow-up in the hospital;length of stay (LOS) in
-the ICU and LOS in the hospital;and others
+ <bullet type='secondary'>Total number of days on antimicrobial therapy, duration of ICU and hospital stay, all-cause mortality at 28 days, and others
 </bullet>
 </outcome>
 </study>
@@ -185,16 +177,16 @@ the ICU and LOS in the hospital;and others
 <citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="ChinCritCareMed">Liu</citation>
  <design>randomized controlled trial</design>
  <patients total="82">
- <description>All patients with sepsis hospitalized in the ICU </description>
- <bullet>Mean age 49.56 </bullet>
+ <description> sepsis admitted to the ICU </description>
+ <bullet>Mean age 49.56 years </bullet>
  </patients>
- <intervention> Antibiotic Cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L.
+ <intervention> First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'> Antibiotic Usage Days</bullet>
- <bullet type='secondary'>Length of Hospital Stay,ICU stay, Mortality in 28 days,Others</bullet>
+ <bullet type='primary'> Duration of antimicrobial therapy</bullet>
+ <bullet type='secondary'>Duration of ICU and hospital stay, all-cause mortality at 28 days,and others</bullet>
  </outcome>
 </study>
 
@@ -203,18 +195,18 @@ the ICU and LOS in the hospital;and others
 <citation year="2013" pmid="23711530" trialregistration="" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
  <design>randomized controlled trial</design>
  <patients total="81">
- <description>microbiologically confirmed infections and
-sepsis, severe sepsis, or septic shock in ICU</description>
+ <description>microbiologically confirmed infection and
+sepsis, severe sepsis, or septic shock admitted to the ICU</description>
  <bullet>Mean age 65.1 years </bullet>
  </patients>
- <intervention> Antibiotic cessation: PCT less than 0.5 ng/ml or declined more than 90% of initial value
+ <intervention> First day antibiotic cessation allowed: 5 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.5 μg/L
  </intervention>
  <comparison>usual care
  </comparison>
  <outcome>
- <bullet type='primary'> Duration of antibiotic therapy</bullet>
+ <bullet type='primary'> Duration of antimicrobial therapy</bullet>
  <bullet type='secondary'> In-hospital mortality, ICU
-mortality, ICU length of stay</bullet>
+mortality, duration of ICU stay</bullet>
  </outcome>
 </study>
 
@@ -223,16 +215,16 @@ mortality, ICU length of stay</bullet>
 <citation year="2014" pmid="25295709" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
  <design>randomized controlled trial</design>
  <patients total="394">
- <description>suspected bacterial infection or sepsis in ICU</description>
+ <description>suspected bacterial infection or sepsis admitted to the ICU</description>
  <bullet>Mean age 64.4 years</bullet>
  </patients>
- <intervention>Antibiotic cessation: PCT less than 0.25 ng/ml or declined more than 90% of initial value
+ <intervention>First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L
  </intervention>
  <comparison> usual care
  </comparison>
  <outcome>
- <bullet type='primary'>Time to antibiotic cessation at 28 days, hospital discharge, or death</bullet>
- <bullet type='secondary'>ICU and hospital length of stay, mortality and 90-day all-cause mortality and others</bullet>
+ <bullet type='primary'>Duration of antimicrobial therapy at 28 days, hospital discharge, or death, whichever came first</bullet>
+ <bullet type='secondary'>Duration of ICU and hospital stay, death from any cause by 90 days, all-cause mortality, and others</bullet>
  </outcome>
 </study>
 
@@ -241,16 +233,16 @@ mortality, ICU length of stay</bullet>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran">Najafi</citation>
  <design>randomized controlled trial</design>
  <patients total="60">
- <description>Patients who met SIRS criteria in the ICU</description>
+ <description> who met SIRS criteria admitted to the ICU</description>
  <bullet>Mean age 40.45 years</bullet>
  </patients>
- <intervention>Antibiotic therapy withheld if PCT level is lower than 2 ng/ml
+ <intervention>First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation: PCT value  lower than 2 μg/L
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'>use of antibiotic therapy</bullet>
- <bullet type='secondary'>early mortality and others</bullet>
+ <bullet type='primary'>Duration of antimicrobial therapy</bullet>
+ <bullet type='secondary'>Early mortality, and others</bullet>
  </outcome>
 </study>
 
@@ -259,16 +251,16 @@ mortality, ICU length of stay</bullet>
 <citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
  <design>randomized controlled trial</design>
  <patients total="1575">
- <description>Critically ill adult patients admitted to the ICU</description>
- <bullet>Mean age 65  </bullet>
+ <description>critical illness admitted to the ICU</description>
+ <bullet>Mean age 65 years  </bullet>
  </patients>
- <intervention>Antibiotic Cessation: PCT value decreased over 80% or PCT value lower than 0.5 μg/L 
+ <intervention> First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic Cessation: PCT value decreased over 80% or PCT value lower than 0.5 μg/L 
  </intervention>
  <comparison>Usual care
  </comparison>
  <outcome>
- <bullet type='primary'>Duration of antibiotic treatment</bullet>
- <bullet type='secondary'>Length of stay in hospital and ICU, mortality at 28 days and 1 year and others</bullet>
+ <bullet type='primary'>Duration of antimicrobial therapy</bullet>
+ <bullet type='secondary'>Duration of ICU and hospital stay, death from any cause by 28 days and 1 year and others</bullet>
  </outcome>
 </study>
 
@@ -277,7 +269,7 @@ mortality, ICU length of stay</bullet>
 <citation year="2015" pmid="27428731" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
  <design>randomized controlled trial</design>
  <patients total="1089">
- <description>Adults with severe sepsis or septic shock</description>
+ <description> severe sepsis or septic shock admitted to the ICU</description>
  <bullet>Mean age 65.7 years</bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 7<br/>Criteria for antibiotic cessation: PCT value decreased over 50% or PCT value lower than 1 μg/L 
