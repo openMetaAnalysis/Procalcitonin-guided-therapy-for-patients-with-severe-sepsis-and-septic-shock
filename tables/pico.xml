@@ -11,7 +11,7 @@
  </patients>
  <intervention>Severe sepsis with PCT >2 ng/mL: change antibiotics and intravascular devices
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'>In-hospital mortality</bullet>
@@ -29,7 +29,7 @@
  </patients>
  <intervention>Antibiotic cessation: PCT declined more than 90% of initial value 
 </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary' > Duration of antibiotic treatment</bullet>
@@ -49,7 +49,7 @@
  <intervention>  Antiobiotic cessation: PCT less than 1 ng/mL or
  declined more than 35% of the initial concentration within 3 days 
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome> 
  <bullet type='primary' > Length of antibiotic treatment (days)</bullet>
@@ -89,7 +89,7 @@ declined more than 25% to 35% of the initial concentration within 3 days
  </patients>
  <intervention> Antibiotic cessation: PCT less than 0.5 ng/mL or
  declined more than 80% of the initial concentration  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary' >Mortality at days 28 and 60
@@ -112,7 +112,7 @@ site; and others.</bullet>
  </patients>
  <intervention>Escalation of antibiotics/interventions based on PCT of more than 1 ng/ml
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'>Death from any cause at day 28 </bullet>
@@ -130,7 +130,7 @@ site; and others.</bullet>
  </patients>
  <intervention> Antibiotic Cessation: PCT less than 0.25 ug/L or les than 0.5 ug/L more and less discouraged respectively.
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'> Antibiotic Consumption Days</bullet>
@@ -148,7 +148,7 @@ site; and others.</bullet>
  </patients>
  <intervention> Antibiotic cessation: PCT less than 0.5 ng/ml
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary' >Proportion of patients 
@@ -190,7 +190,7 @@ the ICU and LOS in the hospital;and others
  </patients>
  <intervention> Antibiotic Cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L.
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'> Antibiotic Usage Days</bullet>
@@ -209,7 +209,7 @@ sepsis, severe sepsis, or septic shock in ICU</description>
  </patients>
  <intervention> Antibiotic cessation: PCT less than 0.5 ng/ml or declined more than 90% of initial value
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'> Duration of antibiotic therapy</bullet>
@@ -228,7 +228,7 @@ mortality, ICU length of stay</bullet>
  </patients>
  <intervention>Antibiotic cessation: PCT less than 0.25 ng/ml or declined more than 90% of initial value
  </intervention>
- <comparison> usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'>Time to antibiotic cessation at 28 days, hospital discharge, or death</bullet>
@@ -246,7 +246,7 @@ mortality, ICU length of stay</bullet>
  </patients>
  <intervention>Antibiotic therapy withheld if PCT level is lower than 2 ng/ml
  </intervention>
- <comparison>usual care
+ <comparison>Usual care
  </comparison>
  <outcome>
  <bullet type='primary'>use of antibiotic therapy</bullet>
