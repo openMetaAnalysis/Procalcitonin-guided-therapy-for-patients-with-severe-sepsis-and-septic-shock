@@ -27,7 +27,7 @@
  <description>Suspected severe sepsis or septic shock in medical and surgical ICU </description>
  <bullet>Mean age 67.7</bullet>
  </patients>
- <intervention>Antibiotic cessation: PCT declined more than 90% of initial value 
+ <intervention>First day antibiotic cessation allowed: 3<br/>Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L 
 </intervention>
  <comparison>Usual care
  </comparison>
