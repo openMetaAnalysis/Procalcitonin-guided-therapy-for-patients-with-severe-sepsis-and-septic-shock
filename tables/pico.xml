@@ -142,7 +142,7 @@
  <description>non-microbiologically proven apparent severe sepsis admitted to the ICU</description>
  <bullet>Mean age 56.5 years </bullet>
  </patients>
- <intervention> First day antibiotic cessation allowed: 3 <br/> Criteria for antibiotic cessation: not defined
+ <intervention> First day antibiotic cessation allowed: 3 <br/> Criteria for antibiotic cessation: PCT value lower than 0.5 μg/L for patients admitted to the medical ICU or lower than 9 μg/L for patients admitted to surgical ICU (less than 4% of patients)
  </intervention>
  <comparison>Usual care
  </comparison>
