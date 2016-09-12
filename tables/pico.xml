@@ -6,10 +6,10 @@
 <citation year="2007" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology">Svoboda</citation>
  <design>randomized controlled trial</design>
  <patients total="72">
- <description>Severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
+ <description>severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
  <bullet>Mean age 45.8 years </bullet>
  </patients>
- <intervention>First day antibiotic cessation allowed: NA<br/>Criteria for antibiotic cessation: NA.<br/>Other interventions: if severe sepsis with PCT >2 ng/mL, change antibiotics and intravascular devices
+ <intervention>First day antibiotic cessation allowed: not defined<br/>Criteria for antibiotic cessation: not defined<br/>Other interventions: if severe sepsis with PCT >2 ng/mL, change antibiotics and intravascular devices
  </intervention>
  <comparison>Usual care
  </comparison>
@@ -25,7 +25,7 @@
  <design>randomized controlled trial</design>
  <patients total="79">
  <description>Suspected severe sepsis or septic shock admitted to the ICU </description>
- <bullet>Mean age 67.7</bullet>
+ <bullet>Mean age 67.7 years</bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 3 if initial PCT value less than 1 μg/L, 5 if initial PCT value more than 1 μg/L <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L 
 </intervention>
@@ -106,7 +106,7 @@
  <description> admitted to the ICU for more than 24 hours</description>
  <bullet>Mean age 65.1 years </bullet>
  </patients>
- <intervention>First day antibiotic cessation allowed: 0 <br/> Escalation of antibiotics/interventions based on PCT of more than 1 μg/L
+ <intervention>First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation: not defined <br/> Other interventions: Escalation of antibiotics/interventions based on PCT of more than 1 μg/L
  </intervention>
  <comparison>Usual care
  </comparison>
