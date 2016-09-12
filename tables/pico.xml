@@ -162,7 +162,7 @@
  <description>severe sepsis or septic shock admitted to the ICU</description>
  <bullet>Mean age 59.6 years </bullet>
  </patients>
- <intervention> First day antibiotic cessation allowed: not defined <br/> Criteria for antibiotic cessation: not defined
+ <intervention> First day antibiotic cessation allowed: 4 if initial PCT value less than 1 μg/L, 5 if initial PCT value more than 1 μg/L <br/> Criteria for antibiotic cessation: PCT value decreased over 90% if initial PCT value more than 1 μg/L  or PCT value lower than 0.1 μg/L if initial PCT value less than 1 μg/L or after 7 days of antibiotic therapy
  </intervention>
  <comparison> protocol based on the serum levels of CRP
  </comparison>
