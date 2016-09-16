@@ -1,3 +1,4 @@
+Study,             Year,PMID,experimental_mean(SD),experimental_total,control_mean(SD),control_total, Control group,           Threshold, First_day_eligible,
 Nobre,             2008,18096708, 6(7.75),  39,9.5(7.75), 40,Control group: Usual care with duration in control group > 6.5 days, 0.25,    5,
 Schoeder,          2009,19034493, 6.6(1.1), 14,8.3(0.7),  13,Control group: Usual care with duration in control group > 6.5 days, 1,       3,
 Hochreiter,        2009,19493352, 5.9(1.7), 57,7.9(0.5),  53,Control group: Usual care with duration in control group > 6.5 days, 1,       3,
