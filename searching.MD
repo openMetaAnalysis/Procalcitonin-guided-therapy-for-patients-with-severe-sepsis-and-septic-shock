@@ -22,8 +22,8 @@ Search [CENTRAL](http://www.cochranelibrary.com/about/central-landing-page.html)
 Search for `procalcitonin AND (sepsis OR septic OR bacteremic)`
 - Restricted to Clinical Trials
  - 134 citations on 11/20/2016
-   - Full text retrieved and included: pending
-    - Full text retrieved but excluded: pending
+   - Full text retrieved and included: none
+    - Full text retrieved but excluded: none
 
 ##Search for trials in using cited references search in Google Scholar
 [Identifying seminal trial](http://sumsearch.org/2d/default.aspx?q=18096708+19034493+19493352+20097417+23418298+23711530+24225216+23921272+25295709+26553084+26947523+27428731&inputtype=pmids&related=no&frontierwidth=0.52&privilege=no&focus=none&abstract=notrequired&citationtohighlight=&color=yes&firstfrontiercitationnumber=1&todo=search):
