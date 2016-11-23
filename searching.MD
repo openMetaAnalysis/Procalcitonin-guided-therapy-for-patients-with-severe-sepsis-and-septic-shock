@@ -6,15 +6,15 @@ See methods at https://openmetaanalysis.github.io/methods.html
 Search for `procalcitonin AND (sepsis OR septic OR bacteremic)` - [link](https://clinicaltrials.gov/ct2/results?term=procalcitonin+AND+%28sepsis+OR+septic+OR+bacteremic%29&Search=Search)
 - Restricted to intervention studies conducted on adults/seniors
  - 24 citations on 11/20/2016
-   - Full text retrieved and included: pending
-    - Full text retrieved but excluded: pending
+   - Full text retrieved and included: none
+    - Full text retrieved but excluded: none
 
 ##Search for trials in PubMed
 Search for `procalcitonin AND (sepsis OR septic OR bacteremic)` - [link](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=procalcitonin%20AND%20%28sepsis%20OR%20septic%20OR%20bacteremic%29)
 - Restricted to Clinical Trials
  - 111 citations on 11/20/2016
-   - Full text retrieved and included: pending
-    - Full text retrieved but excluded: pending
+   - Full text retrieved and included: none
+    - Full text retrieved but excluded: none
 
 ##Search for trials in Cochrane Central Register of Controlled Trials (CENTRAL)
 Search [CENTRAL](http://www.cochranelibrary.com/about/central-landing-page.html) at http://www.cochranelibrary.com/
