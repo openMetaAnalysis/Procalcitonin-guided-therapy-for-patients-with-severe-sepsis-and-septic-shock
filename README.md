@@ -10,7 +10,7 @@ http://openmetaanalysis.github.io/Procalcitonin-guided-antibiotics-for-severe-se
 * Open an [issue](../../issues/new)
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
-* [Subscribe by email or RSS](Keep-up.md)
+* [Subscribe by email or RSS](files/searching/Keep-up.md)
 
 **If you want to update this meta-analysis:**
 
