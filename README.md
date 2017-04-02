@@ -3,7 +3,7 @@ Procalcitonin-guided antibiotics for severe sepsis and septic shock
 
 **[Click here](
 http://openmetaanalysis.github.io/Procalcitonin-guided-antibiotics-for-severe-sepsis-and-septic-shock/
-) to see the review.**
+) to see the meta-analysis.**
 
 **If you want to comment on this meta-analysis:**
 * Contact a [contributor](../../network/members) if you need access
