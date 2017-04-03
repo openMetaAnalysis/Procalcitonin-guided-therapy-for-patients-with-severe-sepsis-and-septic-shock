@@ -6,7 +6,8 @@
 <citation year="2007" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology">Svoboda</citation>
  <design>randomized controlled trial</design>
  <patients total="72">
- <description>severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
+ <description>Severe sepsis after major abdominal surgery or surgery for multiple trauma </description>
+ <bullet>Microbiologically proven infection: not reported</bullet>
  <bullet>Mean age 45.8 years </bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: not defined<br/>Criteria for antibiotic cessation: not defined<br/>Other interventions: if severe sepsis with PCT >2 ng/mL, change antibiotics and intravascular devices
@@ -25,6 +26,7 @@
  <design>randomized controlled trial</design>
  <patients total="79">
  <description>Suspected severe sepsis or septic shock admitted to the ICU </description>
+   <bullet>Microbiologically proven infection: 50%. Blood cultures positive in 32%</bullet>
  <bullet>Mean age 67.7 years</bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 3 if initial PCT value less than 1 μg/L, 5 if initial PCT value more than 1 μg/L <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L 
@@ -43,11 +45,11 @@
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg">Schroeder</citation>
  <design>randomized controlled trial</design>
  <patients total="27">
- <description>severe sepsis admitted to the surgical ICU</description>
+ <description>Severe sepsis after surgery and admitted to the surgical ICU</description>
+ <bullet>Microbiologically proven infection: not reported, 67%</bullet>
  <bullet>Mean age 68.8 years</bullet>
  </patients>
- <intervention>  First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or
- declined more than 25% to 35% of the initial concentration within 3 days
+ <intervention>First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or declined more than 25% to 35% of the initial concentration within 3 days
  </intervention>
  <comparison>Usual care
  </comparison>
@@ -62,12 +64,11 @@
 <citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
  <design>randomized controlled trial</design>
  <patients total="110">
- <description>confirmed or highly suspected bacterial infection and at least two concomitant SIRS criteria admitted to the surgical ICU </description>
+ <description>Confirmed or highly suspected bacterial infection and at least two concomitant SIRS criteria admitted to the surgical ICU </description>
+ <bullet>Microbiologically proven infection: not reported</bullet>
  <bullet>Mean age 66.9 years </bullet>
  </patients>
- <intervention>
- First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or
- declined more than 25% to 35% of the initial concentration within 3 days
+ <intervention>First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or  declined more than 25% to 35% of the initial concentration within 3 days
  </intervention>
  <comparison>Standard regimen of antibiotics over 8 days
  </comparison>
@@ -84,6 +85,7 @@
  <design>randomized controlled trial</design>
  <patients total="621">
  <description> suspected bacterial infection admitted to the ICU</description>
+ <bullet>Microbiologically proven infection: 70%</bullet>
  <bullet> Mean age 61.5 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 80% or PCT value lower than 0.5 μg/L  </intervention>
@@ -92,9 +94,7 @@
  <outcome>
  <bullet type='primary' >All cause mortality at 28 and 60 days
   </bullet>
- <bullet type='secondary'>Duration of ICU and hospital stay, total number of days on antimicrobial therapy,
- duration of antimicrobial therapy according to infection
- site, and others</bullet>
+ <bullet type='secondary'>Duration of ICU and hospital stay, total number of days on antimicrobial therapy, duration of antimicrobial therapy according to infection site, and others</bullet>
  </outcome>
 </study>
 
@@ -103,7 +103,8 @@
 <citation year="2011" pmid=" 21572328" trialregistration="" journal_abbrev="Crit Care Med">Jensen</citation>
  <design>randomized controlled trial</design>
  <patients total="1200">
- <description> admitted to the ICU for more than 24 hours</description>
+ <description>Admitted to the ICU for more than 24 hours</description>
+ <bullet>Microbiologically proven infection: not reported, but 83% were 'judged to have infection'</bullet>
  <bullet>Mean age 65.1 years </bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation: not defined <br/> Other interventions: Escalation of antibiotics/interventions based on PCT of more than 1 μg/L
@@ -119,9 +120,10 @@
 <!-- start of a new study -->
  <study>
 <citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
- <design>randomized controlled trial</design>
+ <design>Randomized controlled trial</design>
  <patients total="509">
- <description>suspected of developing an infection admitted to the ICU </description>
+ <description>Suspected of developing an infection admitted to the ICU </description>
+ <bullet>Microbiologically proven infection: 61%. 87% ot total 'suspected' of having infection</bullet>
  <bullet>Mean age 65.51 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation:  PCT value lower than 0.5 μg/L
@@ -140,6 +142,7 @@
  <design>randomized controlled trial</design>
  <patients total="62">
  <description>non-microbiologically proven apparent severe sepsis admitted to the ICU</description>
+ <bullet>Microbiologically proven infection: 0%</bullet>
  <bullet>Mean age 56.5 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 3 <br/> Criteria for antibiotic cessation: PCT value lower than 0.5 μg/L for patients admitted to the medical ICU or lower than 9 μg/L for patients admitted to surgical ICU (less than 4% of patients)
@@ -159,7 +162,8 @@
 <citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med">Oliveira</citation>
  <design>randomized controlled trial</design>
  <patients total="94">
- <description>severe sepsis or septic shock admitted to the ICU</description>
+ <description>Severe sepsis or septic shock admitted to the ICU</description>
+ <bullet>Microbiologically proven infection: 46%. Bllod cultures positive in 21%</bullet>
  <bullet>Mean age 59.6 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 4 if initial PCT value less than 1 μg/L, 5 if initial PCT value more than 1 μg/L <br/> Criteria for antibiotic cessation: PCT value decreased over 90% if initial PCT value more than 1 μg/L  or PCT value lower than 0.1 μg/L if initial PCT value less than 1 μg/L or after 7 days of antibiotic therapy
@@ -179,8 +183,9 @@
 <citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="ChinCritCareMed">Liu</citation>
  <design>randomized controlled trial</design>
  <patients total="82">
- <description>sepsis admitted to the ICU </description>
- <bullet>Mean age 49.56 years </bullet>
+ <description>Sepsis admitted to the ICU </description>
+ <bullet>Microbiologically proven infection: not reported but blood cultures positive in 30%</bullet>
+  <bullet>Mean age 49.56 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L
  </intervention>
@@ -197,9 +202,9 @@
 <citation year="2013" pmid="23711530" trialregistration="" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
  <design>randomized controlled trial</design>
  <patients total="81">
- <description>microbiologically confirmed infection and
- sepsis, severe sepsis, or septic shock admitted to the ICU</description>
- <bullet>Mean age 65.1 years </bullet>
+ <description>Microbiologically confirmed infection and sepsis, severe sepsis, or septic shock admitted to the ICU</description>
+  <bullet>Microbiologically proven infection: 100%</bullet>
+  <bullet>Mean age 65.1 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 5 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.5 μg/L
  </intervention>
@@ -235,8 +240,9 @@ mortality, duration of ICU stay</bullet>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran">Najafi</citation>
  <design>randomized controlled trial</design>
  <patients total="60">
- <description>who met SIRS criteria admitted to the ICU</description>
+ <description>Patients who met SIRS criteria admitted to the ICU</description>
  <bullet>Mean age 40.45 years</bullet>
+<bullet>Microbiologically proven infection: not reported, but blood cultures positive in 35%</bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation: PCT value  lower than 2 μg/L
  </intervention>
@@ -253,7 +259,8 @@ mortality, duration of ICU stay</bullet>
 <citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
  <design>randomized controlled trial</design>
  <patients total="1575">
- <description>critical illness admitted to the ICU</description>
+ <description>critical illness admitted to the ICU with 'assumed or proven infection'</description>
+ <bullet>Microbiologically proven infection: not reported, but 'Unknown focus' was 9%</bullet>
  <bullet>Mean age 65 years  </bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic Cessation: PCT value decreased over 80% or PCT value lower than 0.5 μg/L 
