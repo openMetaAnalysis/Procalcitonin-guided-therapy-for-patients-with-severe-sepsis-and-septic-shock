@@ -22,7 +22,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
+<citation year="2008" pmid="18096708" trialregistration="NCT00250666" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
  <design>randomized controlled trial</design>
  <patients total="79">
  <description>Suspected severe sepsis or septic shock admitted to the ICU </description>
@@ -61,7 +61,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2009" pmid="19493352" trialregistration="" journal_abbrev="Crit Care">Hochreiter</citation>
+<citation year="2009" pmid="19493352" trialregistration="ISRCTN10288268" journal_abbrev="Crit Care">Hochreiter</citation>
  <design>randomized controlled trial</design>
  <patients total="110">
  <description>Confirmed or highly suspected bacterial infection and at least two concomitant SIRS criteria admitted to the surgical ICU </description>
@@ -81,7 +81,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2010" pmid="20097417" trialregistration="" journal_abbrev="Lancet">Bouadma (PRORATA)</citation>
+<citation year="2010" pmid="20097417" trialregistration="NCT00472667" journal_abbrev="Lancet">Bouadma (PRORATA)</citation>
  <design>randomized controlled trial</design>
  <patients total="621">
  <description> suspected bacterial infection admitted to the ICU</description>
@@ -100,7 +100,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2011" pmid="21572328" trialregistration="" journal_abbrev="Crit Care Med">Jensen</citation>
+<citation year="2011" pmid="21572328" trialregistration="NCT00271752" journal_abbrev="Crit Care Med">Jensen</citation>
  <design>randomized controlled trial</design>
  <patients total="1200">
  <description>Admitted to the ICU for more than 24 hours</description>
@@ -138,7 +138,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2013" pmid="23418298" trialregistration="" journal_abbrev="BMJ Open">Annane</citation>
+<citation year="2013" pmid="23418298" trialregistration="NCT01025180" journal_abbrev="BMJ Open">Annane</citation>
  <design>randomized controlled trial</design>
  <patients total="62">
  <description>non-microbiologically proven apparent severe sepsis admitted to the ICU</description>
@@ -159,7 +159,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2013" pmid="23921272" trialregistration="" journal_abbrev="Crit Care Med">Oliveira</citation>
+<citation year="2013" pmid="23921272" trialregistration="NCT00934011" journal_abbrev="Crit Care Med">Oliveira</citation>
  <design>randomized controlled trial</design>
  <patients total="94">
  <description>Severe sepsis or septic shock admitted to the ICU</description>
@@ -180,8 +180,8 @@
 
 <!-- start of a new study -->
  <study>
-<citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="ChinCritCareMed">Liu</citation>
- <design>randomized controlled trial</design>
+<citation year="2013" pmid="24225216" trialregistration="" journal_abbrev="Zhonghua Wei Zhong Bing Ji Jiu Yi Xue">Liu</citation>
+ <design>Randomized controlled trial</design>
  <patients total="82">
  <description>Sepsis admitted to the ICU </description>
  <bullet>Microbiologically proven infection: not reported but blood cultures positive in 30%</bullet>
@@ -199,7 +199,7 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2013" pmid="23711530" trialregistration="" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
+<citation year="2013" pmid="23711530" trialregistration="NCT01494675" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
  <design>randomized controlled trial</design>
  <patients total="81">
  <description>Microbiologically confirmed infection and sepsis, severe sepsis, or septic shock admitted to the ICU</description>
