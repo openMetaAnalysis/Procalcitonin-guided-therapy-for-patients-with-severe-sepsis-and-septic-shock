@@ -1,4 +1,4 @@
-Procalcitonin-guided antibiotics for severe sepsis and septic shock
+Sepsis and septic shock treatment with procalcitonin-guided antibiotics
 =================================
 
 **[Click here](
