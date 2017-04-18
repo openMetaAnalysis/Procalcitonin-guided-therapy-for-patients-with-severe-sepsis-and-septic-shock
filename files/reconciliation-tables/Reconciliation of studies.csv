@@ -1,19 +1,19 @@
 ,                  Year,PMID,Current,"Andriolo, 2017","Westwood, 2015","Prkno, 2013"
 ,,,,PMID 28099689,PMID 26569153,PMID 24330744
-Svoboda,2007,17523274,Yes,Yes,,Yes
-Nobre,2008,18096708,Yes,Yes,Yes,Yes
+Svoboda,2007,17523274,Yes,Yes (mortalty),,Yes
+Nobre,2008,18096708,Yes,Yes (mortalty),Yes,Yes
 Schoeder,2009,19034493,Yes,Yes,,Yes
 Hochreiter,2009,19493352,Yes,Yes,No,Yes
 Stolz,2009,19797133,No. Ventilator-acquired pneumonia only.,No,Yes,
-Bouadma (PRORATA),2009,20097417,Yes,No,Yes,Yes
-Jensen,2011,21572328,"Yes, for mortality only",No,No,"Yes, for mortality only"
+Bouadma (PRORATA),2009,20097417,Yes,Yes (mortalty),Yes,Yes
+Jensen,2011,21572328,Yes,Yes (mortalty),No,"Yes, mortality only"
 Qu,2012,22485232,No. Pancreatitis only,No,Yes,
-Layios,2012,22809906,Yes,No,Yes,
-Annane,2013,23418298,Yes,Yes,Yes,Yes
-Deliberato,2013,23711530,Yes,Yes,Yes,NA
-Dharaniyadewi,2013,DOI: 10.1186/cc12915,,Yes,,
+Layios,2012,22809906,Yes (mortality only),Yes (mortalty),Yes,
+Annane,2013,23418298,Yes,Yes (mortalty),Yes,Yes
+Deliberato,2013,23711530,Yes,Yes (mortalty),Yes,NA
+Dharaniyadewi,2013,DOI: 10.1186/cc12915,,Yes (mortalty),,
 Oliveira,2013,23921272,Yes,Yes,No,NA
 Liu,2013,24225216,Yes,Yes,Yes,NA
-Shehabi (ProGUARD),2014,25295709,Yes,Yes,NA,NA
+Shehabi (ProGUARD),2014,25295709,Yes,Yes (mortalty),NA,NA
 de Jong,2016,26947523,Yes,NA,NA,NA
 Bloos,2016,27428731,Yes,NA,NA,NA
