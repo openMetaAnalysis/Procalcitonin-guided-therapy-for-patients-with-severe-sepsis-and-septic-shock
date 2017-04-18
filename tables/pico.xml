@@ -46,7 +46,7 @@
  <design>randomized controlled trial</design>
  <patients total="27">
  <description>Severe sepsis after surgery and admitted to the surgical ICU</description>
- <bullet>Microbiologically proven infection: not reported, 67%</bullet>
+ <bullet>Microbiologically proven infection: 67%</bullet>
  <bullet>Mean age 68.8 years</bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT less than 1 ng/mL or declined more than 25% to 35% of the initial concentration within 3 days
