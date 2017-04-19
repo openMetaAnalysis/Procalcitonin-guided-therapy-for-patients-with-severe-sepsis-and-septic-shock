@@ -259,7 +259,7 @@ mortality, duration of ICU stay</bullet>
 <citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
  <design>randomized controlled trial</design>
  <patients total="1575">
- <description>critical illness admitted to the ICU with 'assumed or proven infection'</description>
+ <description>critical illness admitted to the ICU with 'assumed or proven infection'. Per de Jong's Table 1, all had sepsis.</description>
  <bullet>Microbiologically proven infection: not reported, but 'Unknown focus' was 9%</bullet>
  <bullet>Mean age 65 years  </bullet>
  </patients>
