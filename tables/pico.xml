@@ -241,7 +241,7 @@ mortality, duration of ICU stay</bullet>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran">Najafi</citation>
  <design>randomized controlled trial</design>
  <patients total="60">
- <description>Patients who met SIRS criteria admitted to the ICU</description>
+ <description>SIRS criteria admitted to the ICU. Proportion with sepsis or suspected infection not reported.</description>
  <bullet>Mean age 40.45 years</bullet>
 <bullet>Microbiologically proven infection: not reported, but blood cultures positive in 35%</bullet>
  </patients>
