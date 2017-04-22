@@ -104,7 +104,8 @@
  <design>randomized controlled trial</design>
  <patients total="1200">
  <description>Admitted to the ICU for more than 24 hours</description>
- <bullet>Microbiologically proven infection: not reported, but 83% were 'judged to have infection'</bullet>
+ <bullet>38% had severe sepsis or septic shock</bullet>
+ <bullet>Microbiologically proven infection: not reported (83% were 'judged to have infection')</bullet>
  <bullet>Mean age 65.1 years </bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation: not defined <br/> Other interventions: Escalation of antibiotics/interventions based on PCT of more than 1 μg/L
@@ -122,8 +123,8 @@
 <citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med">Layios</citation>
  <design>Randomized controlled trial</design>
  <patients total="509">
- <description>Suspected of developing an infection admitted to the ICU </description>
- <bullet>Microbiologically proven infection: 61%. 87% ot total 'suspected' of having infection</bullet>
+ <description>Sepsis admitted to the ICU (per Layios Table 3, all had sepsis)</description>
+ <bullet>Microbiologically proven infection: 61% (87% ot total 'suspected' of having infection)</bullet>
  <bullet>Mean age 65.51 years </bullet>
  </patients>
  <intervention> First day antibiotic cessation allowed: 0 <br/> Criteria for antibiotic cessation:  PCT value lower than 0.5 μg/L
