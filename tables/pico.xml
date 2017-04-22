@@ -64,7 +64,7 @@
 <citation year="2009" pmid="19493352" trialregistration="ISRCTN10288268" journal_abbrev="Crit Care">Hochreiter</citation>
  <design>randomized controlled trial</design>
  <patients total="110">
- <description>Confirmed or highly suspected bacterial infection and at least two concomitant SIRS criteria admitted to the surgical ICU </description>
+ <description>Sepsis (confirmed or highly suspected bacterial infection and at least two concomitant SIRS criteria) patients admitted to the surgical ICU</description>
  <bullet>Microbiologically proven infection: not reported</bullet>
  <bullet>Mean age 66.9 years </bullet>
  </patients>
