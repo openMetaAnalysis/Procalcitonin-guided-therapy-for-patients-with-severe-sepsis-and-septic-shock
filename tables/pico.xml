@@ -202,7 +202,7 @@
 <citation year="2013" pmid="23711530" trialregistration="NCT01494675" journal_abbrev="Diagnostic Microbiology and Infectious Disease">Deliberato</citation>
  <design>randomized controlled trial</design>
  <patients total="81">
- <description>Microbiologically confirmed infection and sepsis, severe sepsis, or septic shock admitted to the ICU</description>
+ <description>Sepsis, severe sepsis, or septic shock admitted to the ICU</description>
   <bullet>Microbiologically proven infection: 100%</bullet>
   <bullet>Mean age 65.1 years </bullet>
  </patients>
@@ -219,10 +219,11 @@ mortality, duration of ICU stay</bullet>
 
 <!-- start of a new study -->
 <study>
-<citation year="2014" pmid="25295709" trialregistration="ACTRN12610000809033" journal_abbrev="Am J Respir Crit Care Med">Shehabi</citation>
+<citation year="2014" pmid="25295709" trialregistration="ACTRN12610000809033" journal_abbrev="Am J Respir Crit Care Med">Shehabi (ANZICS Clinical Trials Group)</citation>
  <design>randomized controlled trial</design>
  <patients total="394">
- <description>suspected bacterial infection or sepsis admitted to the ICU</description>
+ <description>suspected sepsis (bacterial infectionwith SIRS)  admitted to the ICU</description>
+ <bullet>Microbiologically proven infection: 61%</bullet>
  <bullet>Mean age 64.4 years</bullet>
  </patients>
  <intervention>First day antibiotic cessation allowed: 1 <br/> Criteria for antibiotic cessation: PCT value decreased over 90% or PCT value lower than 0.25 μg/L
