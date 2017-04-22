@@ -241,7 +241,7 @@ mortality, duration of ICU stay</bullet>
 <citation year="2015" pmid="26553084" trialregistration="" journal_abbrev="Acta Med Iran">Najafi</citation>
  <design>randomized controlled trial</design>
  <patients total="60">
- <description>SIRS criteria admitted to the ICU. Proportion with sepsis or suspected infection not reported.</description>
+ <description>SIRS criteria but no initial source of infection who were admitted to the ICU. Proportion with eventual sepsis or suspected infection not reported.</description>
  <bullet>Mean age 40.45 years</bullet>
 <bullet>Microbiologically proven infection: not reported, but blood cultures positive in 35%</bullet>
  </patients>
@@ -260,7 +260,7 @@ mortality, duration of ICU stay</bullet>
 <citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
  <design>randomized controlled trial</design>
  <patients total="1575">
- <description>critical illness admitted to the ICU with 'assumed or proven infection'. Per de Jong's Table 1, all had sepsis.</description>
+ <description>critical illness admitted to the ICU with sepsis (per de Jong's Table 1, all had sepsis)</description>
  <bullet>Microbiologically proven infection: not reported, but 'Unknown focus' was 9%</bullet>
  <bullet>Mean age 65 years  </bullet>
  </patients>
