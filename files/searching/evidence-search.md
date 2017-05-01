@@ -8,20 +8,19 @@ Randomized trials of patients with `sepsis, severe sepsis, or septic shock that 
 
 ## PubMed
 ### Boolean term searching
-Search for `procalcitonin AND (sepsis OR septic OR bacteremic)` - [link](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&&term=procalcitonin%20AND%20%28sepsis%20OR%20septic%20OR%20bacteremic%29)
-- Restricted to Clinical Trials
- - 111 citations on 11/20/2016
-   - Full text retrieved and included: none
+Search for [procalcitonin AND (sepsis OR septic OR bacteremic) AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&&term=procalcitonin%20AND%20%28sepsis%20OR%20septic%20OR%20bacteremic%29)
+ - 122 citations on May 1, 2017
+   - Full text retrieved and included: 1 additional articles found PMID [28219190](https://pubmd.gov/28219190)
    - Full text retrieved but excluded: none
 
 ### Vector searching ('Related citations' search)
-Seed articles: PMIDs [15570651,12809961,10743823,22970658,18557165,24183364,24526247](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=15570651%2012809961%2010743823%2022970658%2018557165%2024183364%2024526247)
-* [2395 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651,12809961,10743823,22970658,18557165,24183364,24526247)
-* X citations when above limited to [disease]
-  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
+Seed articles: PMIDs [18096708,19034493,19493352,20097417,21572328,23418298,23711530,24225216,23921272,25295709,26947523,27428731](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=18096708%2019034493%2019493352%2020097417%2021572328%2023418298%2023711530%2024225216%2023921272%2025295709%2026947523%2027428731)
+* [1035 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=18096708,19034493,19493352,20097417,21572328,23418298,23711530,24225216,23921272,25295709,26947523,27428731) on May 1, 2017
+* 66 citations when above limited to  (random* AND (procalcitonin AND (sepsis OR septic OR bacteremic))) 
+  * 1 additional articles found PMID [28219190](https://pubmd.gov/28219190)
   
 ## Search for studies in ClinicalTrials.gov
-Search for `procalcitonin AND (sepsis OR septic OR bacteremic)` - [link](https://clinicaltrials.gov/ct2/results?term=procalcitonin+AND+%28sepsis+OR+septic+OR+bacteremic%29&Search=Search)
+Search for [procalcitonin AND (sepsis OR septic OR bacteremic)](https://clinicaltrials.gov/ct2/results?term=procalcitonin+AND+%28sepsis+OR+septic+OR+bacteremic%29&Search=Search)
 - Restricted to intervention studies conducted on adults/seniors
  - 24 citations on 11/20/2016
    - Full text retrieved and included: none
