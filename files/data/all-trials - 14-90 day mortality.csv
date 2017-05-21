@@ -1,0 +1,19 @@
+Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,Outcome,Threshold,First_day_eligible
+Svoboda,2007,17523274,10,38,13,34,Control group: Usual care,Mortality in hospital,NA,NA
+Nobre,2008,18096708,8,39,8,40,Control group: Usual care,Mortality at 28 days,0.25,3
+Hochreiter*,2009,19493352,15,57,14,53,Control group: Usual care,Mortality at 90 days,1,1
+Schroeder,2009,19034493,3,14,3,13,Control group: Usual care,Mortality in hospital,1,3
+Layios*,2012,22809906,56,258,53,251,Control group: Usual care,Mortality in intensive care,0.25,1
+Annane*,2013,23418298,7,31,10,30,Control group: Usual care,Mortality in hospital,0.5,3
+Oliveira,2013,23921272,16,49,15,45,Control group: CRP-guided therapy,Mortality in hospital,0.1,4
+Deliberato,2013,23711530,2,42,4,39,Control group: Usual care,Mortality in hospital,0.5,5
+Dharaniyadewi*,2013, NA,26,95,53,102,Control group: Usual care,Mortality at 14 days,NA,NA
+Liu,2013,24225216,6,42,5,40,Control group: Usual care,Mortality at 28 days,0.25,1
+Shehabi (ProGUARD),2014,25295709,21,196,15,198,Control group: Usual care,Mortality in hospital,0.1,2
+Najafi*,2015,26553084,5,30,4,30,Control group: Usual care,Mortality in hospital,0.5,0.5
+de Jong,2016,26947523,149,761,196,785,Control group: Usual care,Mortality at 28 days,0.5,1
+Bloos,2016,27428731,140,547,149,529,Control group: Usual care,Mortality at 28 days,1,7
+,,,,,,,,,,To make forest plot:
+,,,,,,,,,,Click 'Raw' view of this file
+,,,,,,,,,,Copy rows of data without column names
+,,,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io
