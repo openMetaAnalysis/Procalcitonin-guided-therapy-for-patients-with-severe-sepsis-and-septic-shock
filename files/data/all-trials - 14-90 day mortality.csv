@@ -10,10 +10,5 @@ Deliberato,2013,23711530,2,42,4,39,Control group: Usual care,Mortality in hospit
 Dharaniyadewi,2013, NA,26,95,53,102,Control group: Usual care,Mortality at 14 days,NA,NA
 Liu,2013,24225216,6,42,5,40,Control group: Usual care,Mortality at 28 days,0.25,1
 Shehabi (ProGUARD),2014,25295709,21,196,15,198,Control group: Usual care,Mortality in hospital,0.1,2
-Najafi,2015,26553084,5,30,4,30,Control group: Usual care,Mortality in hospital,0.5,0.5
 de Jong,2016,26947523,149,761,196,785,Control group: Usual care,Mortality at 28 days,0.5,1
 Bloos,2016,27428731,140,547,149,529,Control group: Usual care,Mortality at 28 days,1,7
-,,,,,,,,,,To make forest plot:
-,,,,,,,,,,Click 'Raw' view of this file
-,,,,,,,,,,Copy rows of data without column names
-,,,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io
