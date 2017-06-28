@@ -41,7 +41,7 @@ Search for `procalcitonin AND (sepsis OR septic OR bacteremic)`
 PRORATA (PMID [20097417](https://pubmed.gov/20097417)) was published in highest impact journal (Lancet, 2009)
 - [List of citing articles from Google Scholar](https://scholar.google.com/scholar?hl=en&q=Use+of+procalcitonin+to+reduce+patients%27+exposure+to+antibiotics+in+intensive+care+units+%28PRORATA+trial%29%3A+a+multicentre+randomised+controlled+trial&btnG=&as_sdt=1%2C5&as_sdtp=) (644 on 11/20/2016)
  - Searching for citing articles that contain the word stem `random` and were published since 2015 (search date of Cochrane review)
-  - [174 citations](hhttps://scholar.google.com/scholar?q=randomized&hl=en&as_sdt=2005&sciodt=0%2C5&cites=13959909666982996385&scipsc=1&as_ylo=2015&as_yhi=2017) on 06/28/2017
+  - [174 citations](https://scholar.google.com/scholar?q=randomized&hl=en&as_sdt=2005&sciodt=0%2C5&cites=13959909666982996385&scipsc=1&as_ylo=2015&as_yhi=2017) on 06/28/2017
    - Full text retrieved and included: none
     - Full text retrieved but excluded: Lavrentieva PMID [27279801](https://pubmed.gov/27279801), Slieker PMID [28607552](https://pubmed.gov/28607552)
 
