@@ -47,8 +47,8 @@ PRORATA (PMID [20097417](https://pubmed.gov/20097417)) was published in highest 
 
 [Identifying seminal systematic review](http://sumsearch.org/2d/default.aspx?q=24330744+26076027&inputtype=pmids&related=no&frontierwidth=0.52&privilege=no&focus=none&abstract=notrequired&citationtohighlight=&color=yes&firstfrontiercitationnumber=1&todo=search):
 Prkno (PMID [24330744](https://pubmed.gov/24330744)) was published in highest impact journal (Crit Care, 2013)
-- [List of citing articles from Google Scholar](https://scholar.google.com/scholar?hl=en&q=Procalcitonin-guided+therapy+in+intensive+care+unit+patients+with+severe+sepsis+and+septic+shock--a+systematic+review+and+meta-analysis&btnG=&as_sdt=1%2C5&as_sdtp=)  (95 on 11/20/2016)
- - Searching for citing articles that contain the word stem `random`
-  - 11 citations on 11/20/2016
+- [List of citing articles from Google Scholar](https://scholar.google.com/scholar?cites=7570954888509562831&as_sdt=2005&sciodt=0,5&hl=en)  (129 on 06/28/2017)
+ - Searching for citing articles that contain the word stem `randomized`
+  - [81 citations](https://scholar.google.com/scholar?q=randomized&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7570954888509562831&scipsc=1) on 06/28/2017
    - Full text retrieved and included: none
    - Full text retrieved but excluded: none
