@@ -29,9 +29,9 @@
 <citation year="2009" pmid="19034493" trialregistration="" journal_abbrev="Langenbecks Arch Surg" totalsubjects="27" >Schroeder</citation>
  <randomization explanation="Method of randomization not described">Unclear risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <attrition explanation="Consort flow diagram not provided but no missing outcome data">Low risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration .">High risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
