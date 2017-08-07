@@ -40,10 +40,10 @@
 <study>
 <citation year="2009" pmid="19493352" trialregistration="ISRCTN10288268" journal_abbrev="Crit Care" totalsubjects="110" >Hochreiter</citation>
  <randomization explanation="Method of randomization not described">Unclear risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <allocation explanation="Method of concealing allocation not stated">High risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">High risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">High risk</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided but no clear missing data outcome">Low risk</attrition>
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
@@ -55,7 +55,7 @@
  <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Low risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <attrition explanation="Consort flow diagram not provided but no clear missing data outcome">Low risk</attrition>
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
