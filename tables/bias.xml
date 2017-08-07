@@ -182,12 +182,12 @@
 
 <!-- start of a new study -->
 <study>
-<citation year="2015" pmid="2742873" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med" totalsubjects="1089">Bloos</citation>
- <randomization explanation="Method of randomization  described">Low risk</randomization>
- <allocation explanation="allocation ratio of 1:1:1:1,central randomization web server">Low risk</allocation>
- <blinding_people explanation="No blinding of subjects and personnel.">High risk</blinding_people>
+<citation year="2013" pmcid="PMC3952512" trialregistration="" journal_abbrev="Crit Care" totalsubjects="197">Dharaniyadewi</citation>
+ <randomization explanation="Method of randomization not described">Unclear risk</randomization>
+ <allocation explanation="no allocation described">Unclear risk</allocation>
+ <blinding_people explanation="No blinding of subjects and personnel described.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram  provided">Low risk</attrition>
- <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
- <other_biases>Low risk</other_biases>
+ <selective_reporting explanation="Original protocol is not available.">High risk</selective_reporting>
+ <other_biases>Unclear risk</other_biases>
 </study>
