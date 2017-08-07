@@ -89,8 +89,8 @@
 <citation year="2013" pmid="23418298" trialregistration="NCT01025180" journal_abbrev="BMJ Open" totalsubjects="62" >Annane</citation>
  <randomization explanation="">Low risk</randomization>
  <allocation explanation="">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <blinding_people explanation="No blinding of physicians .">High risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">High risk</blinding_assessment>
  <attrition explanation="">Low risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
@@ -101,7 +101,7 @@
 <citation year="2013" pmid="23921272" trialregistration="NCT00934011" journal_abbrev="Crit Care Med" totalsubjects="94" >Oliveira</citation>
  <randomization explanation="">Low risk</randomization>
  <allocation explanation="">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">High risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="d">Low risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
