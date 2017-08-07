@@ -75,11 +75,11 @@
 <!-- start of a new study -->
 <study>
 <citation year="2012" pmid="22809906" trialregistration="" journal_abbrev="Crit Care Med" totalsubjects="509" >Layios</citation>
- <randomization explanation="Method of randomization not described">Unknown</randomization>
- <allocation explanation="Method of concealing allocation not stated">Unknown</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unknown</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unknown</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <randomization explanation="Method of randomization not described">Unclear Risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated">Unclear Risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">High Risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear Risk</blinding_assessment>
+ <attrition explanation="Consort flow diagram provided">Low risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High Risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
