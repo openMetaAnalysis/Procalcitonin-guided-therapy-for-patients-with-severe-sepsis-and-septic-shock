@@ -3,9 +3,9 @@
 <!-- start of a new study -->
 <study>
 <citation year="2007" pmid="17523274" trialregistration="" journal_abbrev="Hepatogastroenterology" totalsubjects="72" >Svoboda</citation>
- <randomization explanation="Method of randomization not described">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk</blinding_people>
+ <randomization explanation="Method of randomization described computer generated ">Low risk</randomization>
+ <allocation explanation="Method of concealing allocation stated opaque envelopes">Low risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
