@@ -129,7 +129,7 @@
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear Risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">High Risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High Risk</selective_reporting>
- <other_biases>Unknown</other_biases>
+ <other_biases>Unclear Risk</other_biases>
  </study>
 
 <!-- start of a new study -->
@@ -137,8 +137,8 @@
 <citation year="2014" pmid="25295709" trialregistration="ACTRN12610000809033" journal_abbrev="Am J Respir Crit Care Med" totalsubjects="394" >ProGUARD</citation>
  <randomization explanation="">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
- <blinding_assessment explanation="">Low risk</blinding_assessment>
+ <blinding_people explanation="Single Blinding.">High risk</blinding_people>
+ <blinding_assessment explanation="">High risk</blinding_assessment>
  <attrition explanation="">Low risk</attrition>
  <selective_reporting explanation="Original protocol is available.">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
