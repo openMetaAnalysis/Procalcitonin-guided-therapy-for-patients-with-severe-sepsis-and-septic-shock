@@ -90,7 +90,7 @@
  <randomization explanation="">Low risk</randomization>
  <allocation explanation="">Low risk</allocation>
  <blinding_people explanation="No blinding of physicians .">High risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">High risk</blinding_assessment>
+ <blinding_assessment explanation="Blinding of assessors not done">High risk</blinding_assessment>
  <attrition explanation="">Low risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
@@ -101,8 +101,8 @@
 <citation year="2013" pmid="23921272" trialregistration="NCT00934011" journal_abbrev="Crit Care Med" totalsubjects="94" >Oliveira</citation>
  <randomization explanation="">Low risk</randomization>
  <allocation explanation="">Low risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">High risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <blinding_people explanation="No blinding of subjects and personnel.">High risk</blinding_people>
+ <blinding_assessment explanation="No Blinding of assessors">High risk</blinding_assessment>
  <attrition explanation="d">Low risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
@@ -112,9 +112,9 @@
 <study>
 <citation year="2013" pmid="23711530" trialregistration="NCT01494675" journal_abbrev="Diagnostic Microbiology and Infectious Disease" totalsubjects="81" >Deliberato</citation>
  <randomization explanation="">Low risk</randomization>
- <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
- <blinding_assessment explanation="">Low risk</blinding_assessment>
+ <allocation explanation="Method of concealing allocation not stated">High risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel.">High risk</blinding_people>
+ <blinding_assessment explanation="">High risk</blinding_assessment>
  <attrition explanation="Imbalance in rates of dropouts on Consort diagram.">High risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
