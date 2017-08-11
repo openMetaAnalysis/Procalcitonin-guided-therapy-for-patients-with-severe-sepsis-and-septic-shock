@@ -258,7 +258,7 @@ mortality, duration of ICU stay</bullet>
 
 <!-- start of a new study -->
 <study>
-<citation year="2015" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
+<citation year="2016" pmid="26947523" trialregistration="NCT01139489" journal_abbrev="Lancet Infect Dis">de Jong</citation>
  <design>randomized controlled trial</design>
  <patients total="1575">
  <description>critical illness admitted to the ICU with sepsis (per de Jong's Table 1, all had sepsis)</description>
@@ -277,7 +277,7 @@ mortality, duration of ICU stay</bullet>
 
 <!-- start of a new study -->
 <study>
-<citation year="2015" pmid="27428731" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
+<citation year="2016" pmid="27428731" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
  <design>randomized controlled trial</design>
  <patients total="1089">
  <description>severe sepsis or septic shock admitted to the ICU</description>
