@@ -7,7 +7,7 @@
  <allocation explanation="Method of concealing allocation stated opaque envelopes">Low risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel.">Unclear risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Low risk</attrition>
+ <attrition explanation="Consort flow diagram not provided but no clear missing data outcome">Low risk</attrition>
  <selective_reporting explanation="Original protocol not available at a website for trial registration.">High risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
