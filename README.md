@@ -19,6 +19,7 @@ Text files:
 * [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
 * [Data tables](../../tree/master/data)
 * [Clinical summary and references](../../tree/gh-pages/index.html)
+* [Reconciliation tables (word processor versions)](../master/files/reconciliation-tables)
 
 Images:
 * [Forest plots](../master/files/forest-plots)
